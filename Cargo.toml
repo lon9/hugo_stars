@@ -1,0 +1,12 @@
+[package]
+name = "hugo_stars"
+version = "0.1.0"
+authors = ["lon9 <rompei0924@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "0.10.2"
+scraper = "0.11.0"
+tokio = { version = "0.2", features = ["full"] }
