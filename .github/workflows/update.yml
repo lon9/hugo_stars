@@ -9,7 +9,7 @@ jobs:
         - name: run
           run: cargo run
           env:
-            GITHUB_ACCESS_TOKEN: ${{ secret.GITHUB_TOKEN }}
+            GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         - name: commit
           run: |
             git config --local user.name "hugo_stars bot"
@@ -17,4 +17,4 @@ jobs:
         - name: push
           uses: ad-m/github-push-action@master
           with:
-            github_token: ${{ secret.GITHUB_TOKEN }}
+            github_token: ${{ secrets.GITHUB_TOKEN }}
