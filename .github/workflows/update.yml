@@ -1,5 +1,7 @@
 name: Update Readme
-on: [push]
+on:
+    schedule:
+      - cron: '0 0 * * 0'
 jobs:
     update:
         name: Update Readme
