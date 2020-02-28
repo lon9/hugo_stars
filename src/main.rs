@@ -10,6 +10,7 @@ use dotenv::dotenv;
 use serde::{Deserialize};
 use std::fs;
 use std::io::{BufWriter, Write};
+use chrono::{Utc};
 
 const URL: &str = "https://themes.gohugo.io/";
 
@@ -68,7 +69,9 @@ async fn main() -> Result<(), Box<dyn std::error::Error>>{
     let themes = Selector::parse("body > main > div > div > div.w-100.w-80-l.ph0 > div > section > a").unwrap();
 
     let mut f = BufWriter::new(fs::File::create("README.md").unwrap());
-    f.write(b"# hugo_stars\n\n")
+    let now = Utc::now();
+    let title = format!("# hugo_stars\nUpdated at {}\n\n", now);
+    f.write(title.as_bytes())?;
     f.write(b"|Name|Stars|Forks|Tags|UpdatedAt|\n----|----|----|----|----\n")?;
 
     let mut repos: Vec<Repo> = Vec::new();
