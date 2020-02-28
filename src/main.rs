@@ -6,18 +6,58 @@ use scraper::{Html, Selector};
 use github_gql as gh;
 use gh::client::Github;
 use gh::query::Query;
-use serde_json::Value;
 use dotenv::dotenv;
+use serde::{Deserialize};
+use std::fs;
+use std::io::{BufWriter, Write};
 
 const URL: &str = "https://themes.gohugo.io/";
 
-const QUERY: &str = "query { repository(name: \"{}\", owner: \"{}\"){name,stargazers{totalCount},forks{totalCount},updatedAt}}";
+#[derive(Debug, Deserialize, Eq, Ord, PartialEq, PartialOrd)]
+#[serde(rename_all = "camelCase")]
+struct Stargazers{
+    total_count: i32
+}
+
+#[derive(Debug, Deserialize)]
+#[serde(rename_all = "camelCase")]
+struct Forks{
+    total_count: i32
+}
+
+#[derive(Debug, Deserialize)]
+#[serde(rename_all = "camelCase")]
+struct Repository{
+    name: String,
+    url: String,
+    updated_at: String,
+    forks: Forks,
+    stargazers: Stargazers
+}
+
+#[derive(Debug, Deserialize)]
+#[serde(rename_all = "camelCase")]
+struct Data{
+    repository: Repository
+}
+
+#[derive(Deserialize)]
+#[serde(rename_all = "camelCase")]
+struct Response{
+    data: Data
+}
+
+#[derive(Debug)]
+struct Repo{
+    repository: Repository,
+    tags: Vec<String>
+}
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>>{
 
     dotenv().ok();
-    let mut g = Github::new(std::env::var("ACCESS_TOKEN").unwrap()).unwrap();
+    let mut g = Github::new(std::env::var("GITHUB_ACCESS_TOKEN").unwrap()).unwrap();
 
     let mut resp = reqwest::get(URL)
         .await?
@@ -27,6 +67,11 @@ async fn main() -> Result<(), Box<dyn std::error::Error>>{
     let doc = Html::parse_document(&resp);
     let themes = Selector::parse("body > main > div > div > div.w-100.w-80-l.ph0 > div > section > a").unwrap();
 
+    let mut f = BufWriter::new(fs::File::create("README.md").unwrap());
+    f.write(b"# hugo_stars\n\n")
+    f.write(b"|Name|Stars|Forks|Tags|UpdatedAt|\n----|----|----|----|----\n")?;
+
+    let mut repos: Vec<Repo> = Vec::new();
     for theme in doc.select(&themes) {
         let url = theme.value().attr("href").unwrap();
         resp = reqwest::get(url)
@@ -40,22 +85,36 @@ async fn main() -> Result<(), Box<dyn std::error::Error>>{
             git_link = link.value().attr("href").unwrap();
         }
         let tags_selector = Selector::parse("body > main > article > div.flex-l.bg-light-gray > div:nth-child(1) > div:nth-child(1) > ul > li.mb2.mt4 > a").unwrap();
-        let mut tags: Vec<&str> = Vec::new();
+        let mut tags: Vec<String> = Vec::new();
         for tag_elem in page.select(&tags_selector){
             let tag = tag_elem.text().collect::<Vec<_>>();
-            tags.push(&tag[0]);
+            if tag.len() != 0{
+                tags.push(tag[0].to_string());
+            }
         }
         let path = Path::new(&git_link);
         let owner = path.parent().unwrap().file_stem().unwrap().to_str().unwrap();
         let name = path.file_stem().unwrap().to_str().unwrap();
-        println!("{:?}", tags);
-        println!("{:?}", owner);
-        println!("{:?}", name);
-        let query = format!(r#"query {{ repository(name: "{}", owner: "{}"){{name,stargazers{{totalCount}},forks{{totalCount}},updatedAt}}}}"#, name, owner);
+        let query = format!(r#"query {{ repository(name: "{}", owner: "{}"){{name,stargazers{{totalCount}},forks{{totalCount}},updatedAt,url}}}}"#, name, owner);
         println!("{}", query);
-        let (header, status, json) = g.query::<Value>(
+        let resp = match g.query::<Response>(
             &Query::new_raw(query)
-        ).unwrap();
+        ){
+            Ok((_, _, resp)) => resp.unwrap(),
+            Err(_) => continue
+        };
+        //let resp: Response = serde_json::from_value(json.unwrap())?;
+        let repo: Repo = Repo{
+            repository: resp.data.repository,
+            tags: tags
+        };
+        repos.push(repo);
+    }
+    repos.sort_by(|a, b| b.repository.stargazers.total_count.cmp(&a.repository.stargazers.total_count));
+
+    for repo in repos{
+        let row: &str = &format!("|[{}]({})|{}|{}|{}|{}|\n", repo.repository.name, repo.repository.url, repo.repository.stargazers.total_count, repo.repository.forks.total_count, repo.tags.join(","), repo.repository.updated_at);
+        f.write(row.as_bytes())?;
     }
 
     Ok(())
