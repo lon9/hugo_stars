@@ -1,8 +1,9 @@
 # hugo_stars
+Updated at 2020-02-28 06:08:18.683245293 UTC
 
 |Name|Stars|Forks|Tags|UpdatedAt|
 ----|----|----|----|----
-|[hugo-academic](https://github.com/gcushen/hugo-academic)|3990|1657|widgets,resume,portfolio,responsive,clean,personal,company,blog,minimal,light,dark,multilingual,documentation,landing page,projects,single page,contact form,mobile,gallery,search,presentation,simple,minimalist,starter,modern,one page,customizable,technical,product,slide|2020-02-28T01:59:59Z|
+|[hugo-academic](https://github.com/gcushen/hugo-academic)|3991|1657|widgets,resume,portfolio,responsive,clean,personal,company,blog,minimal,light,dark,multilingual,documentation,landing page,projects,single page,contact form,mobile,gallery,search,presentation,simple,minimalist,starter,modern,one page,customizable,technical,product,slide|2020-02-28T05:43:58Z|
 |[hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even)|935|370|responsive,blog,simple,clean,highlight.js,syntax highlighting|2020-02-27T09:03:31Z|
 |[hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn)|866|523|documentation,grav,learn,doc,search|2020-02-28T04:06:54Z|
 |[hugo-coder](https://github.com/luizdepra/hugo-coder)|815|373|blog,minimal,minimalist,responsive,simple,clean,personal|2020-02-27T13:38:39Z|
@@ -51,7 +52,7 @@
 |[LoveIt](https://github.com/dillonzq/LoveIt)|130|76|blog,clean,responsive,dark,theme|2020-02-27T12:18:03Z|
 |[hugo-theme-m10c](https://github.com/vaga/hugo-theme-m10c)|129|87|blog,minimalistic,minimal,responsive,dark|2020-02-27T08:16:00Z|
 |[ezhil](https://github.com/vividvilla/ezhil)|127|93|minimal,clean,blog,responsive,personal,simple,minimalist,portfolio,dark|2020-02-26T13:16:17Z|
-|[meghna-hugo](https://github.com/themefisher/meghna-hugo)|121|260|landing-page,google-analytics,fast,modern,minimal,minimalistic,business,agency-template,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,portfolio,single-page,dark,clean,simple,company,creative,contact-form,custom-themes,mobile|2020-02-26T18:11:31Z|
+|[meghna-hugo](https://github.com/themefisher/meghna-hugo)|121|262|landing-page,google-analytics,fast,modern,minimal,minimalistic,business,agency-template,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,portfolio,single-page,dark,clean,simple,company,creative,contact-form,custom-themes,mobile|2020-02-26T18:11:31Z|
 |[syna](https://github.com/okkur/syna)|117|45|customizable,blog,responsive,clean,personal,bootstrap,portfolio,company,projects,mobile,search,documentation|2020-02-25T00:05:45Z|
 |[ghostwriter](https://github.com/jbub/ghostwriter)|117|112|blog,technical,personal|2020-02-27T02:44:52Z|
 |[hugo-theme-pixyll](https://github.com/azmelanar/hugo-theme-pixyll)|117|40|blog,personal,search,responsive,minimal|2020-02-18T17:50:11Z|
@@ -218,7 +219,7 @@
 |[arabica](https://github.com/nirocfz/arabica)|13|19|blog,minimal|2019-10-29T20:52:53Z|
 |[min_night](https://github.com/nathancday/min_night)|13|13|blog,night-mode|2019-12-24T07:02:46Z|
 |[elephants](https://github.com/meibenny/elephants)|13|13|blog|2019-12-11T08:54:10Z|
-|[educenter-hugo](https://github.com/themefisher/educenter-hugo)|12|25|blog,google-analytics,fast,modern,minimal,minimalistic,business,education,white,light,multilingual,bootstrap,company,portfolio,projects,responsive,themefisher|2020-02-27T17:56:32Z|
+|[educenter-hugo](https://github.com/themefisher/educenter-hugo)|12|26|blog,google-analytics,fast,modern,minimal,minimalistic,business,education,white,light,multilingual,bootstrap,company,portfolio,projects,responsive,themefisher|2020-02-27T17:56:32Z|
 |[foundation-theme](https://github.com/hdcdstr8fwd/foundation-theme)|12|10|hugo,foundation|2020-01-26T01:17:14Z|
 |[contrast-hugo](https://github.com/niklasbuschmann/contrast-hugo)|11|16|blog|2020-02-26T15:44:31Z|
 |[capsule](https://github.com/sudorook/capsule)|11|9|hugo,bulma,css only,font awesome,responsive|2020-02-10T21:55:08Z|
