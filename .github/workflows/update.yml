@@ -7,14 +7,14 @@ jobs:
         steps:
         - uses: actions/checkout@v2
         - name: run
-            run: cargo run
-            env:
-                GITHUB_ACCESS_TOKEN: ${{ secret.GITHUB_TOKEN }}
+          run: cargo run
+          env:
+            GITHUB_ACCESS_TOKEN: ${{ secret.GITHUB_TOKEN }}
         - name: commit
-            run: |
-                git config --local user.name "hugo_stars bot"
-                git commit -m "Updated ranking" -a
+          run: |
+            git config --local user.name "hugo_stars bot"
+            git commit -m "Updated ranking" -a
         - name: push
-            uses: ad-m/github-push-action@master
-            with:
-                github_token: ${{ secret.GITHUB_TOKEN }}
+          uses: ad-m/github-push-action@master
+          with:
+            github_token: ${{ secret.GITHUB_TOKEN }}
