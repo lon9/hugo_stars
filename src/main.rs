@@ -7,26 +7,27 @@ use github_gql as gh;
 use gh::client::Github;
 use gh::query::Query;
 use dotenv::dotenv;
-use serde::{Deserialize};
+use serde::{Deserialize, Serialize};
 use std::fs;
+use std::fs::File;
 use std::io::{BufWriter, Write};
 use chrono::{Utc};
 
 const URL: &str = "https://themes.gohugo.io/";
 
-#[derive(Debug, Deserialize, Eq, Ord, PartialEq, PartialOrd)]
+#[derive(Debug, Serialize, Deserialize, Clone, Eq, Ord, PartialEq, PartialOrd)]
 #[serde(rename_all = "camelCase")]
 struct Stargazers{
     total_count: i32
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Serialize, Deserialize, Clone)]
 #[serde(rename_all = "camelCase")]
 struct Forks{
     total_count: i32
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Serialize, Deserialize, Clone)]
 #[serde(rename_all = "camelCase")]
 struct Repository{
     name: String,
@@ -36,7 +37,7 @@ struct Repository{
     stargazers: Stargazers
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Serialize, Deserialize, Clone)]
 #[serde(rename_all = "camelCase")]
 struct Data{
     repository: Repository
@@ -48,7 +49,7 @@ struct Response{
     data: Data
 }
 
-#[derive(Debug)]
+#[derive(Debug, Serialize, Clone)]
 struct Repo{
     repository: Repository,
     tags: Vec<String>
@@ -106,7 +107,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>>{
             Ok((_, _, resp)) => resp.unwrap(),
             Err(_) => continue
         };
-        //let resp: Response = serde_json::from_value(json.unwrap())?;
         let repo: Repo = Repo{
             repository: resp.data.repository,
             tags: tags
@@ -115,10 +115,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>>{
     }
     repos.sort_by(|a, b| b.repository.stargazers.total_count.cmp(&a.repository.stargazers.total_count));
 
-    for repo in repos{
+    for repo in &repos{
         let row: &str = &format!("|[{}]({})|{}|{}|{}|{}|\n", repo.repository.name, repo.repository.url, repo.repository.stargazers.total_count, repo.repository.forks.total_count, repo.tags.join(","), repo.repository.updated_at);
         f.write(row.as_bytes())?;
     }
+
+    let json_file = File::create("themes.json")?;
+    serde_json::to_writer(&json_file, &repos)?;
 
     Ok(())
 }
