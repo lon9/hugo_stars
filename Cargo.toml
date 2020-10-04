@@ -1,7 +1,7 @@
 [package]
 name = "hugo_stars"
 version = "0.1.0"
-authors = ["lon9 <rompei0924@gmail.com>"]
+authors = ["lon9"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
