@@ -1,369 +1,376 @@
 # hugo_stars
-Updated at 2021-06-27 00:21:25.266860435 UTC
+Updated at 2021-07-11 00:31:15.177245137 UTC
 
 |Name|Stars|Forks|Tags|UpdatedAt|
 ----|----|----|----|----
-|[hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)|1559|453|responsive,simple,clean,light,dark,blog,minimalist,highlight.js,search|2021-06-26T20:14:34Z|
-|[hugo-coder](https://github.com/luizdepra/hugo-coder)|1510|650|blog,minimal,minimalist,responsive,simple,clean,personal|2021-06-26T20:15:35Z|
-|[hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even)|1460|575|responsive,blog,simple,clean,highlight.js,syntax highlighting|2021-06-25T03:26:57Z|
-|[starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)|1386|4770|widgets,resume,portfolio,responsive,clean,personal,company,blog,minimal,light,dark,multilingual,documentation,landing page,projects,single page,contact form,mobile,gallery,search,presentation,simple,minimalist,starter,modern,one page,customizable,technical,product,slide|2021-06-27T00:10:02Z|
-|[hugo-book](https://github.com/alex-shpak/hugo-book)|1253|571|responsive,clean,documentation,docs,flexbox,search,mobile,multilingual,disqus|2021-06-24T17:17:15Z|
-|[hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn)|1218|740|documentation,grav,learn,doc,search|2021-06-26T15:26:15Z|
-|[docsy](https://github.com/google/docsy)|1204|391|documentation,multilingual,customizable,responsive,docs|2021-06-23T12:39:22Z|
-|[LoveIt](https://github.com/dillonzq/LoveIt)|1202|438|blog,clean,responsive,dark,theme|2021-06-26T18:16:16Z|
-|[hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng)|970|506|blog,clean,customizable,dark,highlighting,light,minimal,monochromatic,multilingual,personal,responsive,simple,technical|2021-06-26T22:18:47Z|
-|[hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)|934|177|blog,responsive,clean,light,dark,personal|2021-06-26T12:07:30Z|
-|[hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal)|917|341|blog,clean,customizable,dark,highlighting,minimal,monotone,multilingual,personal,responsive,simple,technical,retro|2021-06-25T13:18:59Z|
-|[beautifulhugo](https://github.com/halogenica/beautifulhugo)|836|429|blog,company,portfolio,projects,minimal,responsive,seo,google analytics,bootstrap,disqus,light,syntax highlighting,multilingual,portfolio,projects,mobile,technical|2021-06-26T00:03:07Z|
-|[hermit](https://github.com/Track3/hermit)|832|263|blog,minimal,dark,responsive|2021-06-26T17:53:44Z|
-|[hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme)|709|398|blog,minimal,responsive,personal,customizable,creative,fontawesome,highlight.js|2021-06-25T04:07:11Z|
-|[hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)|685|240|responsive,blog,simple,clean,readable,highlight,multilingual|2021-06-22T08:16:10Z|
-|[hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend)|640|258|blog,clean,customizable,dark,highlighting,light,minimal,monochromatic,multilingual,personal,responsive,simple,technical|2021-06-26T00:54:49Z|
-|[gohugo-theme-ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)|612|664|website,starter,responsive,disqus,blog,tachyons,multilingual,stackbit|2021-06-26T05:31:46Z|
-|[hugo-paper](https://github.com/nanxiaobei/hugo-paper)|590|125|responsive,simple,clean,light,white,blog|2021-06-23T16:46:43Z|
-|[Mainroad](https://github.com/Vimux/Mainroad)|543|309|blog,responsive,customizable,widgets,rss,disqus,google analytics,wordpress|2021-06-22T14:37:15Z|
-|[hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme)|528|133|blog,minimal,clean,typography,multilingual|2021-06-26T16:12:00Z|
-|[hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo)|513|201|accessible,multilingual,responsive,blog,search,simple,light,dark,mobile,gallery,technical,fast,presentation|2021-06-26T12:39:42Z|
-|[docuapi](https://github.com/bep/docuapi)|501|162|documentation,api,docs,responsive,multilingual|2021-06-11T20:42:07Z|
-|[hugo-universal-theme](https://github.com/devcows/hugo-universal-theme)|482|364|blog,company,portfolio,projects,minimal,responsive|2021-06-23T19:38:06Z|
-|[hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction)|477|217|blog,bulma,clean,dark,disqus,font awesome,gallery,minimal,minimalist,mobile,multilingual,one page,personal,responsive,simple,single page,starter,syntax highlighting,projects,white|2021-06-26T14:14:14Z|
-|[doks](https://github.com/h-enk/doks)|472|123|landing page,documentation,blog,minimal,modern,customizable,search,dark mode,bootstrap|2021-06-26T15:45:10Z|
-|[minimo](https://github.com/MunifTanjim/minimo)|463|188|blog,minimal,minimalist,responsive,google-analytics|2021-06-17T11:36:29Z|
-|[hyde](https://github.com/spf13/hyde)|449|256|blog,company|2021-06-22T23:47:56Z|
-|[reveal-hugo](https://github.com/dzello/reveal-hugo)|407|107|presentation,revealjs|2021-06-25T06:05:30Z|
-|[hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini)|394|166|blog,fast,minimalist,responsive,simple,beautiful,tags,pages|2021-06-23T14:43:14Z|
-|[hugo-xmin](https://github.com/yihui/hugo-xmin)|363|178|minimal,blog,personal,clean,simple,starter,minimalist|2021-06-07T09:51:05Z|
-|[hugo-eureka](https://github.com/wangchucheng/hugo-eureka)|359|92|blog,responsive,simple,personal,light,dark,mobile,fast,disqus,google analytics,syntax highlighting,highlighting,multilingual,modern,font awesome,fontawesome,documentation,docs,seo,accessible|2021-06-25T11:50:26Z|
-|[LeaveIt](https://github.com/liuzc/LeaveIt)|359|115|blog,minimal,clean,responsive,gallery,dark,theme|2021-06-06T04:54:46Z|
-|[kube](https://github.com/jeblister/kube)|354|99|responsive,kube,documentation,landing,blog,themes,professional,modern|2021-06-17T17:33:48Z|
-|[minimal](https://github.com/calintat/minimal)|349|211|blog,minimal,personal,responsive|2021-06-13T17:48:48Z|
-|[toha](https://github.com/hugo-toha/toha)|336|245|portfolio,blog,resume,projects,gallery,multilingual,minimalist,responsive,customizable,google analytics,disqus,bootstrap,syntax highlighting|2021-06-25T22:09:47Z|
-|[hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)|331|159|clean,simple,blog,portfolio,flexbox,css grid,minimalist,responsive,syntax highlighting,gallery,starter|2021-06-26T02:24:07Z|
-|[hugo-creative-portfolio-theme](https://github.com/kishaningithub/hugo-creative-portfolio-theme)|320|208|creative,portfolio,projects,minimal,responsive|2021-06-09T14:36:26Z|
-|[anatole](https://github.com/lxndrblz/anatole)|312|211|blog,responsive,clean,minimalist,minimal,personal,dark|2021-06-26T12:56:04Z|
-|[hugo-future-imperfect](https://github.com/jpescador/hugo-future-imperfect)|308|219|blog,responsive,font awesome,highlight.js,fancybox 3,staticman,netlify|2021-06-16T19:04:47Z|
-|[hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite)|304|146|minimal,responsive,blog,light,clean,search|2021-06-24T19:39:09Z|
-|[ezhil](https://github.com/vividvilla/ezhil)|294|149|minimal,clean,blog,responsive,personal,simple,minimalist,portfolio,dark|2021-06-19T18:41:39Z|
-|[blackburn](https://github.com/yoshiharuyamashita/blackburn)|283|157|blog,personal,purecss,responsive|2021-06-11T06:56:51Z|
-|[meghna-hugo](https://github.com/themefisher/meghna-hugo)|274|1043|landing-page,google-analytics,fast,modern,minimal,minimalistic,business,agency-template,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,portfolio,single-page,dark,clean,simple,company,creative,contact-form,custom-themes,mobile,gethugothemes|2021-06-21T12:53:28Z|
-|[kiss](https://github.com/ribice/kiss)|274|129|blog,minimal,minimalist,responsive|2021-06-12T18:28:47Z|
-|[archie](https://github.com/athul/archie)|272|89|blog,simple,responsive,minimal,tags,personal,clean,shortcodes|2021-06-26T21:16:05Z|
-|[hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo)|263|81|blog,beautiful,simple,valine,rss,syntax highlighting,tags|2021-06-26T15:51:25Z|
-|[hugo-notepadium](https://github.com/cntrump/hugo-notepadium)|261|113|blog|2021-06-23T23:54:01Z|
-|[hugo-future-imperfect-slim](https://github.com/pacollins/hugo-future-imperfect-slim)|256|184|academic,academicons,blog,contact form,css grid,disqus,fancybox,font awesome,gallery,google analytics,google news,highlight.js,jquery,lunr.js,multilingual,netlify,responsive,search,open graph,staticman,syntax highlighting,twitter cards,utteranc.es|2021-06-23T15:44:26Z|
-|[hugo-theme-m10c](https://github.com/vaga/hugo-theme-m10c)|250|157|blog,minimalistic,minimal,responsive,dark|2021-06-26T09:24:47Z|
-|[hugo-theme-novela](https://github.com/forestryio/hugo-theme-novela)|246|154|blog|2021-06-11T21:02:07Z|
-|[hugo-theme-yinyang](https://github.com/joway/hugo-theme-yinyang)|245|91|blog,minimal,minimalist,responsive,simple,clean,personal|2021-06-22T03:32:58Z|
-|[hugo-ink](https://github.com/knadh/hugo-ink)|235|104|minimal,clean,blog,responsive,personal,simple,minimalist,portfolio,dark|2021-06-26T10:33:55Z|
-|[hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex)|233|147|website,starter,blog|2021-06-25T00:15:09Z|
-|[hugo-clarity](https://github.com/chipzoller/hugo-clarity)|230|140|blog,technical,simple,dark,syntax highlighting|2021-06-23T19:54:06Z|
-|[hugo-orbit-theme](https://github.com/aerohub/hugo-orbit-theme)|227|99|cv,resume,colour schemes|2021-06-13T11:23:37Z|
-|[hyde-hyde](https://github.com/htr3n/hyde-hyde)|222|208|blog,theme,hyde,highlight.js,font-awesome,google analytics,disqus,personal,syntax highlighting,responsive,graphcomment|2021-06-24T14:50:34Z|
-|[hugo-theme-pure](https://github.com/xiaoheiAh/hugo-theme-pure)|218|105|blog,clean,simple,dark,white,search|2021-06-22T03:23:00Z|
-|[bilberry-hugo-theme](https://github.com/Lednerb/bilberry-hugo-theme)|218|110|blog,personal,responsive,commento,comments,disabled javascript,gallery,code,coding,programming,audio,video,algolia,disqus,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts|2021-06-10T00:46:32Z|
-|[airspace-hugo](https://github.com/themefisher/airspace-hugo)|216|439|blog,google-analytics,fast,modern,minimal,minimalistic,business,agency-template,white,light,multilingual,bootstrap,company,portfolio,projects,responsive,themefisher,gethugothemes|2021-06-22T03:17:22Z|
-|[hugo-goa](https://github.com/shenoybr/hugo-goa)|212|106|roboto,lato,roboto slab,bootstrap,font awesome,minimal,clean|2021-06-18T22:24:00Z|
-|[hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream)|211|98|flip,masonry layout,i18n,blog,google-analytics,disqus,responsive,copyright,avatar,motto,social links,creative,personal,light mode,dark mode,search|2021-06-26T15:29:06Z|
-|[syna](https://github.com/okkur/syna)|210|106|customizable,blog,responsive,clean,personal,bootstrap,portfolio,company,projects,mobile,search,documentation|2021-06-20T15:50:36Z|
-|[hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus)|204|138|blog,responsive,clean|2021-06-26T09:01:20Z|
-|[hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji)|201|68|blog,minimal,responsive,dark mode|2021-06-26T14:29:31Z|
-|[tale-hugo](https://github.com/EmielH/tale-hugo)|199|94|minimal,clean,responsive,simple,personal,blog,starter,light,typography|2021-06-01T08:44:28Z|
-|[hugo-theme-bootstrap4-blog](https://github.com/alanorth/hugo-theme-bootstrap4-blog)|196|140|bootstrap,blog,font awesome|2021-05-27T21:16:39Z|
-|[hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary)|195|87|blog|2021-06-24T20:51:12Z|
-|[github-style](https://github.com/MeiK2333/github-style)|193|63|blog,google analytics|2021-06-26T09:49:50Z|
-|[cupper-hugo-theme](https://github.com/zwbetz-gh/cupper-hugo-theme)|188|137|accessible,blog,documentation,dark|2021-06-19T06:26:06Z|
-|[kross-hugo](https://github.com/themefisher/kross-hugo)|187|342|landing-page,fast,light,white,modern,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,creative,contact-form,custom-themes,mobile,minimalistic,pages,resume,portfolio,google analytics,customizable,flexbox,presentation,product,theme,typography,gethugothemes|2021-06-20T05:28:04Z|
-|[hugo-devresume-theme](https://github.com/cowboysmall-tools/hugo-devresume-theme)|176|81|cv,resume|2021-06-24T11:04:47Z|
-|[hugo-serif-theme](https://github.com/zerostaticthemes/hugo-serif-theme)|175|151|responsive,minimal,clean,business,multi page,marketing,company,bootstrap,zerostatic,personal,google analytics|2021-06-12T11:53:45Z|
-|[dot-hugo-documentation-theme](https://github.com/themefisher/dot-hugo-documentation-theme)|173|127|documentation,bootstrap,light,minimal,clean,simple,fast,modern,white,customizable,creative,flexbox,minimalistic,highlight.js,typography,docs,material design,highlighting,contact form,responsive,syntax highlighting,multilingual,single page,themefisher,gethugothemes|2021-06-04T20:59:08Z|
-|[hugo-elate-theme](https://github.com/saey55/hugo-elate-theme)|172|99|elate,hugo,parallax|2021-05-10T21:41:44Z|
-|[hugo-theme-anubis](https://github.com/Mitrichius/hugo-theme-anubis)|169|70|blog,responsive,personal,minimal,clean,simple,light,dark,google-analytics,mobile,fast,multilingual|2021-06-25T18:50:18Z|
-|[hugo_theme_pickles](https://github.com/mismith0227/hugo_theme_pickles)|168|97|responsive,blog,google analytics,disqus,clean,tags,minimal,minimalist,simple,white,starter|2021-06-03T23:17:17Z|
-|[hugo-black-and-light-theme](https://github.com/davidhampgonsalves/hugo-black-and-light-theme)|168|80|responsive,minimal,simple,personal,white|2021-05-28T07:42:09Z|
-|[hugo-sustain](https://github.com/nurlansu/hugo-sustain)|168|100|blog,minimal,responsive|2021-06-03T16:32:03Z|
-|[uBlogger](https://github.com/uPagge/uBlogger)|167|88|blog,clean,responsive,dark,theme|2021-06-26T15:27:01Z|
-|[portio-hugo](https://github.com/StaticMania/portio-hugo)|166|147|clean,minimal,blog,responsive,personal,google analytics,bootstrap,portfolio,white,modern,projects,contact form,creative|2021-06-25T10:30:11Z|
-|[hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console)|166|75|blog,gallery,portfolio,console,terminal,clean,personal,minimal,monotone,simple,technical,responsive,mobile,minimalist,retro,animation|2021-06-26T02:56:12Z|
-|[hugo-whisper-theme](https://github.com/zerostaticthemes/hugo-whisper-theme)|166|83|documentation,responsive,minimal,clean,bootstrap,zerostatic|2021-06-14T03:12:27Z|
-|[KeepIt](https://github.com/Fastbyte01/KeepIt)|159|64|blog,minimal,clean,responsive,gallery,dark,theme|2021-06-25T02:41:40Z|
-|[ghostwriter](https://github.com/jbub/ghostwriter)|154|142|blog,technical,personal|2021-06-17T04:09:10Z|
-|[hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc)|150|118|docs,documentation,responsive,simple|2021-06-26T11:54:22Z|
-|[raditian-free-hugo-theme](https://github.com/radity/raditian-free-hugo-theme)|148|101|personal-website,personal,portfolio,single-page,one-page,fast,typography,customizable,mobile,resume,fresh,modern,flexbox,hugo-theme,hugo,bootstrap,responsive,clean,simple,creative,contact form,light,white,custom-design,minimal,minimalistic,minimalist,portfolio,google tag manager,google analytics,customizable,flexbox,starter,theme|2021-06-25T17:48:21Z|
-|[lanyon-hugo](https://github.com/tummychow/lanyon-hugo)|148|66|blog|2021-05-13T02:15:15Z|
-|[hugo-resume](https://github.com/eddiewebb/hugo-resume)|146|142|portfolio,resume,responsive,cms|2021-06-25T16:47:56Z|
-|[harbor](https://github.com/matsuyoshi30/harbor)|144|60|blog,minimal,simple|2021-06-25T11:51:30Z|
-|[hugrid](https://github.com/aerohub/hugrid)|143|57|responsive,grid,portfolio,cards,simple,collections,google analytics|2021-06-16T15:06:59Z|
-|[story](https://github.com/xaprb/story)|142|50|blog,presentation,slide,newsletter|2021-06-18T22:24:09Z|
-|[hugo-bearblog](https://github.com/janraasch/hugo-bearblog)|139|51|blog,responsive,minimal,seo,clean,simple,light,minimalist,mobile,fast,white,minimalistic,reading,dark mode|2021-06-24T15:05:20Z|
-|[aether](https://github.com/josephhutch/aether)|138|68|blog,personal,responsive,minimal,simple,clean,modern,technical,syntax highlighting,google analytics,disqus,material design|2021-06-02T14:13:17Z|
-|[newsroom](https://github.com/onweru/newsroom)|137|60|blog,simple,dark,minimalist,fast,disqus,syntax highlighting|2021-06-23T17:20:11Z|
-|[hugo-theme-noteworthy](https://github.com/kimcc/hugo-theme-noteworthy)|136|82|blog,minimalist,minimal,clean,simple,responsive,light|2021-06-25T00:32:37Z|
-|[hugo-theme-pixyll](https://github.com/azmelanar/hugo-theme-pixyll)|135|49|blog,personal,search,responsive,minimal|2021-06-14T07:48:53Z|
-|[hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme)|134|122|responsive,minimal,clean,company,portfolio,bootstrap,zerostatic|2021-06-20T18:55:05Z|
-|[hugo-coder-portfolio](https://github.com/naro143/hugo-coder-portfolio)|133|59|blog,minimal,minimalist,responsive,simple,clean,personal|2021-06-26T15:08:40Z|
-|[blank](https://github.com/Vimux/blank)|133|70|blog,plain,blank,starter,development|2021-05-18T14:12:26Z|
-|[hugo-theme-zen](https://github.com/frjo/hugo-theme-zen)|130|43|accessible,multilingual,responsive,blog,search,micro,podcast|2021-06-23T08:18:02Z|
-|[hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc)|126|48|accessible,multilingual,responsive,documentation,search,simple,light,dark,mobile|2021-06-21T07:15:09Z|
-|[liva-hugo](https://github.com/gethugothemes/liva-hugo)|126|129|landing-page,fast,light,white,modern,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,creative,contact-form,custom-themes,mobile,minimalistic,gethugothemes,resume,portfolio,google analytics,customizable,flexbox,presentation,product,theme,typography|2021-06-20T05:28:00Z|
-|[hugo-theme-techdoc](https://github.com/thingsym/hugo-theme-techdoc)|125|103|documentation,docs,responsive,google analytics,table of contents|2021-06-24T18:48:10Z|
-|[hugo-theme-minos](https://github.com/carsonip/hugo-theme-minos)|118|67|blog,minimal|2021-05-21T07:01:01Z|
-|[compose](https://github.com/onweru/compose)|116|47|technical,docs,dark,customizable,search,documentation|2021-06-23T17:20:33Z|
-|[hugo-theme-air](https://github.com/syui/hugo-theme-air)|112|62|blog|2021-06-16T20:40:47Z|
-|[hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme)|110|48|blog|2021-06-24T07:02:44Z|
-|[educenter-hugo](https://github.com/themefisher/educenter-hugo)|109|250|blog,google-analytics,fast,modern,minimal,minimalistic,business,education,white,light,multilingual,bootstrap,company,portfolio,projects,responsive,themefisher,gethugothemes|2021-06-25T15:19:00Z|
-|[timer-hugo](https://github.com/themefisher/timer-hugo)|108|99|landing-page,google-analytics,fast,light,white,modern,business,agency-template,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,company,projects,creative,contact-form,custom-themes,mobile,minimalistic,gethugothemes|2021-06-20T19:04:33Z|
-|[hugo-theme-nix](https://github.com/LordMathis/hugo-theme-nix)|108|82|simple,minimal,unix,terminal,blog,multilingual|2021-06-09T01:46:50Z|
-|[hugo-nederburg-theme](https://github.com/appernetic/hugo-nederburg-theme)|107|89|projects,minimal,responsive,blog|2021-06-18T22:24:09Z|
-|[forty](https://github.com/MarcusVirg/forty)|107|110|portfolio,company,contact form,google analytics,blog|2021-04-20T03:07:31Z|
-|[hugo-primer](https://github.com/qqhann/hugo-primer)|106|43|blog,simple,minimal,clean,personal,syntax highlighting,white,light,simple page,technical|2021-06-03T14:05:05Z|
-|[slate](https://github.com/gesquive/slate)|106|51|speed-dial,single-page|2021-05-17T14:55:32Z|
-|[vex-hugo](https://github.com/themefisher/vex-hugo)|105|231|onepage,bootstrap,ecommerce,single product,product,themefisher,gethugothemes|2021-06-07T08:37:14Z|
-|[hugo-researcher](https://github.com/ojroques/hugo-researcher)|103|68|blog,bootstrap,clean,minimal,personal,responsive,resume,simple|2021-06-14T11:56:52Z|
-|[hugo-theme-slim](https://github.com/zhe/hugo-theme-slim)|103|52|minimal,clean,neat,black white,blog|2021-06-17T22:50:17Z|
-|[Hugo-Octopress](https://github.com/parsiya/Hugo-Octopress)|101|35|octopress,hugo|2021-06-23T06:40:29Z|
-|[hugo-base16-theme](https://github.com/htdvisser/hugo-base16-theme)|101|56|blog,syntax highlighting|2021-06-05T16:05:12Z|
-|[navigator-hugo](https://github.com/gethugothemes/navigator-hugo)|100|112|landing-page,business,agency-template,multilingual,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,company,projects,dark,creative,contact-form,custom-themes,mobile,flexbox,minimalistic,gethugothemes|2021-05-18T16:15:34Z|
-|[academia-hugo](https://github.com/themefisher/academia-hugo)|99|129|widgets,resume,portfolio,responsive,clean,personal,company,blog,minimal,light,dark,themefisher,multilingual,documentation,landing page,projects,gethugothemes,single page,contact form,mobile,gallery,search,presentation,simple,minimalist,starter,modern,one page,customizable,themefisher,technical,product,slide|2021-06-26T05:01:46Z|
-|[etch](https://github.com/LukasJoswiak/etch)|99|64|simple,minimal,clean,fast,blog,responsive,dark mode,privacy|2021-06-26T05:00:02Z|
-|[parsa-hugo](https://github.com/themefisher/parsa-hugo)|98|299|landing-page,fast,light,white,modern,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,creative,contact-form,custom-themes,mobile,minimalistic,pages,resume,portfolio,google analytics,customizable,flexbox,presentation,product,theme,typography|2021-06-26T16:55:52Z|
-|[hugo-swift-theme](https://github.com/onweru/hugo-swift-theme)|97|67|blog,staticman,simple,dark,minimalist,fast,light|2021-06-23T05:42:11Z|
-|[mediumish-gohugo-theme](https://github.com/lgaida/mediumish-gohugo-theme)|97|73|blog,responsive,personal,minimal,clean,disqus,google analytics|2021-06-18T22:24:09Z|
-|[pulp](https://github.com/koirand/pulp)|96|52|minimal,blog,simple,light,personal,search|2021-06-19T09:16:30Z|
-|[hugo-changelog-theme](https://github.com/jsnjack/hugo-changelog-theme)|95|24|changelog|2021-06-13T16:23:38Z|
-|[amperage](https://github.com/asurbernardo/amperage)|94|31|blog,personal,responsive,minimal,clean,simple,google analytics,light,multilingual,syntax highlighting,fast,customizable,minimalistic,technical,amp,white,disqus,starter,search|2021-06-01T20:13:27Z|
-|[hugo-theme-basic](https://github.com/siegerts/hugo-theme-basic)|94|43|minimal,tachyons,blog,responsive,syntax highlighting,google analytics,plain,clean,starter,rstats,blogdown|2021-06-09T00:09:51Z|
-|[hugo-pacman-theme](https://github.com/coderzh/hugo-pacman-theme)|94|26|pacman,blog,responsive|2020-12-01T01:08:21Z|
-|[smol](https://github.com/colorchestra/smol)|93|36|blog,minimal,monospace,dark mode,simple,clean,light,responsive,fast,no-js,no-tracking,privacy|2021-06-21T03:24:35Z|
-|[hugo-vitae](https://github.com/dataCobra/hugo-vitae)|93|44|blog,responsive,postimage,clean,simple,light,disqus,commento,mobile,customizable,minimalistic,typography,fontawesome,reading|2021-06-06T23:02:25Z|
-|[hugo-refresh](https://github.com/PippoRJ/hugo-refresh)|92|56|responsive,blog,light,clean,personal,multilingual,syntax-highlighting|2021-06-07T20:16:59Z|
-|[hugo-icon](https://github.com/SteveLane/hugo-icon)|89|69|icon,responsive,single page,hero,personal,company,agency|2021-05-18T07:51:26Z|
-|[hugo-theme-massively](https://github.com/curtistimson/hugo-theme-massively)|88|98|blog,html5up|2021-06-23T09:33:50Z|
-|[somrat](https://github.com/somratpro/somrat)|86|101|landing-page,fast,light,white,modern,dark,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,creative,contact-form,custom-themes,mobile,minimalistic,pages,resume,portfolio,google analytics,customizable,flexbox,presentation,product,theme,typography,somratpro|2021-06-26T19:46:45Z|
-|[hugo-theme-chunky-poster](https://github.com/puresyntax71/hugo-theme-chunky-poster)|86|88|minimal,minimalist,blog,responsive,syntax highlighting,multilingual,minimalist,light|2021-06-06T14:21:18Z|
-|[hugo-identity-theme](https://github.com/aerohub/hugo-identity-theme)|86|46|responsive,configurable,profile,card,contact,social,minimal,google analytics|2021-05-21T08:33:54Z|
-|[hallo-hugo](https://github.com/EmielH/hallo-hugo)|84|48|minimal,clean,responsive,simple,personal,starter,single page,onepage,font awesome,landing page|2021-05-28T17:05:26Z|
-|[hugo-classic](https://github.com/goodroot/hugo-classic)|84|44|minimal,blog,personal,simple,clean,starter,minimalist|2021-06-08T10:42:46Z|
-|[purehugo](https://github.com/dplesca/purehugo)|84|59|blog,purecss|2021-05-11T15:30:31Z|
-|[hugo-webslides](https://github.com/RCJacH/hugo-webslides)|81|28|slide,presentation,responsive,landing page|2021-06-22T07:33:40Z|
-|[avicenna](https://github.com/hadisinaee/avicenna)|81|36|academic,personal,minimal,minimalist,clean,responsive,simple,university|2021-06-21T14:58:53Z|
-|[hugo-uilite](https://github.com/uicardioHQ/hugo-uilite)|81|53|minimal,responsive,clean,modern,colors,portfolio,blog,skills,experience,services,uicardio|2021-06-22T01:51:53Z|
-|[castanet](https://github.com/mattstratton/castanet)|81|47|podcast,responsive|2021-05-31T16:43:51Z|
-|[northendlab-hugo](https://github.com/gethugothemes/northendlab-hugo)|79|156|landing-page,fast,light,white,modern,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,creative,contact-form,custom-themes,mobile,minimalistic,pages,resume,portfolio,google analytics,customizable,flexbox,presentation,product,gethugothemes,typography|2021-06-20T18:55:11Z|
-|[hugo-theme-dimension](https://github.com/your-identity/hugo-theme-dimension)|78|88|blog,clean,customizable,dark,highlighting,minimal,personal,responsive,simple|2021-06-24T22:41:54Z|
-|[personal-web](https://github.com/bjacquemet/personal-web)|76|55|portfolio,blog,post,personal,freelancer,developer|2021-06-13T01:44:02Z|
-|[roxo-hugo](https://github.com/StaticMania/roxo-hugo)|72|84|clean,minimal,agency,corporate,creative agency,creative studio,portfolio,staticmania,responsive,blog,customizable,company,creative,agency template|2021-06-09T07:03:46Z|
-|[bigspring-hugo-startup-theme](https://github.com/themefisher/bigspring-hugo-startup-theme)|70|216|landing-page,fast,light,white,modern,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,creative,contact-form,custom-themes,mobile,minimalistic,pages,google analytics,customizable,flexbox,presentation,product,theme,typography,multilingual,gethugothemes|2021-06-24T10:17:02Z|
-|[manis-hugo-theme](https://github.com/yursan9/manis-hugo-theme)|70|39|blog,personal,minimal,simple,clean,light|2021-05-28T15:24:31Z|
-|[minimal-bootstrap-hugo-theme](https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme)|69|29|minimalist,blog,clean,simple,bootstrap|2021-06-01T04:40:30Z|
-|[hugo-scroll](https://github.com/janraasch/hugo-scroll)|68|61|clean,contact,fontawesome,forkawesome,landing page,onepage,one page,personal,projects,simple,single page,starter,responsive,theme|2021-06-14T16:10:51Z|
-|[almeida-cv](https://github.com/ineesalmeida/almeida-cv)|66|32|cv,resume,minimal,simple|2021-06-16T18:18:08Z|
-|[hargo-hugo-ecommerce-theme](https://github.com/themefisher/hargo-hugo-ecommerce-theme)|65|114|ecommerce,bootstrap,blog,contact,responsive,gethugothemes,clean,single product,minimal,light,google analytics,disqus,mobile,fast,customizable,white,flex,pages,hugo themes,hugo templates,netlify,themefisher|2021-06-20T18:55:09Z|
-|[devfest-theme-hugo](https://github.com/GDGToulouse/devfest-theme-hugo)|65|43|conference,devfest|2021-06-26T20:45:19Z|
-|[ace-documentation](https://github.com/vantagedesign/ace-documentation)|64|38|documentation,bootstrap,responsive,syntax highlighting,search,google analytics,font awesome,highlight.js,docs,clean,mobile,fast,light,simple,minimal,minimalist|2021-06-09T22:51:11Z|
-|[hugo-journal](https://github.com/dashdashzako/hugo-journal)|64|39|minimalist,reading,blog|2021-05-12T10:30:38Z|
-|[hugo-terrassa-theme](https://github.com/danielkvist/hugo-terrassa-theme)|63|68|blog,clean,personal,company,google analytics,contact form,mobile,modern,accessibility,font awesome|2021-06-07T06:07:56Z|
-|[hugo-tanka](https://github.com/nanxstats/hugo-tanka)|60|29|bootstrap,minimalist,responsive,typography|2021-06-26T02:30:50Z|
-|[axiom](https://github.com/marketempower/axiom)|60|17|seo,organic-search,structured-data,cdn,cloudinary,netlify,jamstack,responsive-images,pagespeed-95,sharing,atom-feed,npm-scripts,custom-css,custom-js,blog,chroma,modular,fast,responsive,tailwindcss,alpinejs,seo|2021-05-18T09:26:47Z|
-|[papercss-hugo-theme](https://github.com/zwbetz-gh/papercss-hugo-theme)|60|33|blog,paper,informal|2021-06-13T13:03:22Z|
-|[Binario](https://github.com/Vimux/Binario)|59|27|blog,dark,disqus,google analytics,responsive|2021-06-16T13:20:23Z|
-|[material-design](https://github.com/pdevty/material-design)|59|32|blog|2021-06-01T13:29:07Z|
-|[nofancy](https://github.com/gizak/nofancy)|59|30|blog,personal|2021-04-03T09:44:38Z|
-|[hugo-story](https://github.com/caressofsteel/hugo-story)|58|22|blog,clean,html5up,modular,one-page,portfolio,responsive|2021-06-19T13:02:07Z|
-|[hugo-bootstrap](https://github.com/mmrath/hugo-bootstrap)|58|54|blog,technical,personal|2021-01-17T22:56:30Z|
-|[hugo-flex](https://github.com/de-souza/hugo-flex)|58|26|responsive,minimal,flexbox,no-javascript|2021-06-25T03:25:35Z|
-|[vanilla-bootstrap-hugo-theme](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)|57|39|home,blog,tags,bootstrap,minimal,clean,simple,feather|2021-06-06T17:40:41Z|
-|[hugo-theme-pico](https://github.com/negrel/hugo-theme-pico)|56|36|blog,light,dark,clean,simple,mobile,fast,onepage,starter,multilingual,personal,resume,syntax highlightning,white|2021-06-19T18:46:04Z|
-|[devise](https://github.com/austingebauer/devise)|55|19|blog,minimal,personal,simple,clean|2021-06-24T06:38:20Z|
-|[hugo-tania](https://github.com/WingLim/hugo-tania)|54|33|blog,responsive,light,dark|2021-06-21T09:14:20Z|
-|[hugo-lamp](https://github.com/huyb1991/hugo-lamp)|54|30|hugo,amp,blog,theme,responsive,static-site-generator|2021-05-30T20:20:09Z|
-|[er](https://github.com/lingxz/er)|54|26|responsive,white,blog|2021-06-26T06:13:31Z|
-|[hugo-theme-blueberry-detox](https://github.com/allnightgrocery/hugo-theme-blueberry-detox)|54|59|blog,minimal,ghost,white|2021-02-19T20:08:58Z|
-|[hugo-kiera](https://github.com/funkydan2/hugo-kiera)|53|39|blog,minimal,responsive|2021-06-21T13:19:26Z|
-|[simple-a](https://github.com/alxschwarz/simple-a)|53|29|alexfinn|2021-03-18T01:50:10Z|
-|[indigo](https://github.com/AngeloStavrow/indigo)|52|30|blog,responsive,minimal|2021-05-03T01:22:14Z|
-|[hugo-xmag](https://github.com/yihui/hugo-xmag)|52|32|minimal,magazine,clean,simple,minimalist,blog,responsive,google analytics,syntax highlighting|2021-05-31T12:01:45Z|
-|[bento](https://github.com/leonardofaria/bento)|51|11|hugo,tailwindcss,minimal,minimalist,clean,simple,personal,google analytics,disqus,mobile,fast,syntax highlighting,white,modern,webmention|2021-06-25T12:48:22Z|
-|[hugo-cards](https://github.com/bul-ikana/hugo-cards)|51|46|bootstrap,cards,responsive,jekyll,blog|2021-06-17T08:56:45Z|
-|[erblog](https://github.com/ertuil/erblog)|50|26|blog,personal,responsive,mobile,fast,gallery|2021-06-05T22:33:42Z|
-|[influencer-hugo](https://github.com/gethugothemes/influencer-hugo)|50|47|ecommerce,bootstrap,blog,contact,responsive,gethugothemes,clean,single product,minimal,light,google analytics,mobile,fast,customizable,white,flex,pages,hugo themes,hugo templates,netlify,themefisher,one page|2021-06-18T18:58:16Z|
-|[simplicity](https://github.com/eshlox/simplicity)|50|19|blog,responsive,minimal|2021-06-04T12:35:30Z|
-|[hugo-theme-bootie-docs](https://github.com/progrhyme/hugo-theme-bootie-docs)|50|12|documentation,bootstrap,simple,highlight.js|2021-02-13T13:32:54Z|
-|[hugo-theme-texify](https://github.com/queensferryme/hugo-theme-texify)|49|14|blog,clean,latex,light,minimal,responsive,simple|2021-06-24T10:50:39Z|
-|[gochowdown](https://github.com/seanlane/gochowdown)|49|50|recipes,cooking,responsive,clean|2021-06-07T01:08:02Z|
-|[hugo-theme-winning](https://github.com/cssandstuff/hugo-theme-winning)|49|14|cv,one page|2021-06-11T11:45:02Z|
-|[hugo-blog-jeffprod](https://github.com/Tazeg/hugo-blog-jeffprod)|48|21|simple,blog,theme,pagination,archives,tags,bulma,personal|2021-05-20T11:02:32Z|
-|[kraiklyn](https://github.com/jsnjack/kraiklyn)|48|29|one page,docs,documentation,simple,minimalistic|2021-06-24T18:49:35Z|
-|[hugo-initio](https://github.com/miguelsimoni/hugo-initio)|47|82|blog,responsive,personal,google analytics,portfolio,disqus,bootstrap,font awesome,projects,creative,landing page,product,white,share this|2021-06-20T13:00:08Z|
+|[wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules)|5724|2414|Blog,Company,Contact,Dark,Docs,Gallery,Light,Multilingual,Personal,Portfolio,Responsive|2021-07-10T21:25:37Z|
+|[hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)|1603|473|Blog,Dark,Light,Responsive|2021-07-10T14:34:37Z|
+|[hugo-coder](https://github.com/luizdepra/hugo-coder)|1523|654|Blog,Personal,Responsive|2021-07-09T11:43:02Z|
+|[hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even)|1473|580|Blog,Responsive|2021-07-10T05:04:56Z|
+|[starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)|1419|4804|Blog,Company,Contact,Dark,Docs,Gallery,Light,Multilingual,Personal,Portfolio,Responsive|2021-07-10T16:12:40Z|
+|[hugo-book](https://github.com/alex-shpak/hugo-book)|1275|574|Docs,Multilingual,Responsive|2021-07-08T17:52:17Z|
+|[LoveIt](https://github.com/dillonzq/LoveIt)|1240|451|Blog,Dark,Responsive|2021-07-09T12:34:51Z|
+|[hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn)|1224|741|Docs|2021-07-09T11:20:33Z|
+|[docsy](https://github.com/google/docsy)|1217|396|Docs,Multilingual,Responsive|2021-07-10T04:57:25Z|
+|[hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng)|985|514|Blog,Dark,Light,Multilingual,Personal,Responsive|2021-07-09T18:16:02Z|
+|[hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)|949|186|Blog,Dark,Light,Personal,Responsive|2021-07-10T04:24:51Z|
+|[hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal)|932|346|Blog,Dark,Multilingual,Personal,Responsive|2021-07-09T19:42:42Z|
+|[beautifulhugo](https://github.com/halogenica/beautifulhugo)|842|431|Blog,Bootstrap,Company,Light,Multilingual,Portfolio,Responsive|2021-07-09T23:58:44Z|
+|[hermit](https://github.com/Track3/hermit)|837|265|Blog,Dark,Responsive|2021-07-10T18:45:46Z|
+|[hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme)|707|400|Blog,Personal,Responsive|2021-07-06T19:59:44Z|
+|[hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)|689|238|Blog,Multilingual,Responsive|2021-07-10T08:47:14Z|
+|[hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend)|646|265|Blog,Dark,Light,Multilingual,Personal,Responsive|2021-07-08T10:20:44Z|
+|[gohugo-theme-ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)|617|670|Blog,Multilingual,Responsive|2021-07-10T21:58:27Z|
+|[hugo-paper](https://github.com/nanxiaobei/hugo-paper)|597|124|Blog,Light,Responsive,White|2021-07-09T23:23:51Z|
+|[Mainroad](https://github.com/Vimux/Mainroad)|546|310|Blog,Responsive|2021-07-07T16:52:01Z|
+|[hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme)|532|133|Blog,Multilingual|2021-07-09T10:34:27Z|
+|[hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo)|515|205|Blog,Dark,Gallery,Light,Multilingual,Responsive|2021-07-09T11:43:22Z|
+|[docuapi](https://github.com/bep/docuapi)|506|161|Api,Docs,Multilingual,Responsive|2021-07-09T12:30:44Z|
+|[doks](https://github.com/h-enk/doks)|495|129|Blog,Bootstrap,Docs|2021-07-10T22:52:13Z|
+|[hugo-universal-theme](https://github.com/devcows/hugo-universal-theme)|486|365|Blog,Company,Portfolio,Responsive|2021-07-06T06:53:47Z|
+|[hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction)|482|217|Blog,Dark,Gallery,Multilingual,Personal,Responsive,White|2021-07-10T22:32:27Z|
+|[minimo](https://github.com/MunifTanjim/minimo)|466|187|Blog,Responsive|2021-07-06T10:19:59Z|
+|[hyde](https://github.com/spf13/hyde)|453|260|Blog,Company|2021-07-06T19:12:53Z|
+|[reveal-hugo](https://github.com/dzello/reveal-hugo)|410|110||2021-07-06T04:45:04Z|
+|[hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini)|401|168|Blog,Responsive|2021-07-10T12:45:56Z|
+|[hugo-xmin](https://github.com/yihui/hugo-xmin)|366|177|Blog,Personal|2021-07-10T23:00:58Z|
+|[hugo-eureka](https://github.com/wangchucheng/hugo-eureka)|365|94|Blog,Dark,Docs,Light,Multilingual,Personal,Responsive|2021-07-10T15:36:38Z|
+|[LeaveIt](https://github.com/liuzc/LeaveIt)|362|115|Blog,Dark,Gallery,Responsive|2021-07-07T04:02:24Z|
+|[kube](https://github.com/jeblister/kube)|353|99|Blog,Docs,Responsive|2021-07-08T16:10:05Z|
+|[minimal](https://github.com/calintat/minimal)|353|211|Blog,Personal,Responsive|2021-07-10T10:46:02Z|
+|[toha](https://github.com/hugo-toha/toha)|347|253|Blog,Bootstrap,Gallery,Multilingual,Portfolio,Responsive|2021-07-09T07:43:43Z|
+|[hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)|333|159|Blog,Gallery,Portfolio,Responsive|2021-06-29T22:59:40Z|
+|[hugo-creative-portfolio-theme](https://github.com/kishaningithub/hugo-creative-portfolio-theme)|320|209|Portfolio,Responsive|2021-07-08T22:19:22Z|
+|[anatole](https://github.com/lxndrblz/anatole)|317|215|Blog,Dark,Personal,Responsive|2021-07-10T16:08:00Z|
+|[hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite)|309|151|Blog,Light,Responsive|2021-07-05T03:49:57Z|
+|[hugo-future-imperfect](https://github.com/jpescador/hugo-future-imperfect)|308|219|Blog,Responsive|2021-06-16T19:04:47Z|
+|[blackburn](https://github.com/yoshiharuyamashita/blackburn)|283|157|Blog,Personal,Responsive|2021-06-11T06:56:51Z|
+|[meghna-hugo](https://github.com/themefisher/meghna-hugo)|276|1055|Blog,Bootstrap,Company,Contact,Dark,Portfolio,Responsive|2021-07-07T15:17:54Z|
+|[archie](https://github.com/athul/archie)|275|90|Blog,Personal,Responsive|2021-07-09T11:46:32Z|
+|[kiss](https://github.com/ribice/kiss)|275|127|Blog,Responsive|2021-07-06T01:00:41Z|
+|[hugo-notepadium](https://github.com/cntrump/hugo-notepadium)|262|117|Blog|2021-07-07T06:02:29Z|
+|[hugo-future-imperfect-slim](https://github.com/pacollins/hugo-future-imperfect-slim)|259|185|Blog,Contact,Gallery,Multilingual,Responsive|2021-07-07T15:41:04Z|
+|[hugo-theme-m10c](https://github.com/vaga/hugo-theme-m10c)|255|162|Blog,Dark,Responsive|2021-07-09T06:53:30Z|
+|[hugo-theme-novela](https://github.com/forestryio/hugo-theme-novela)|249|160|Blog|2021-07-10T15:03:44Z|
+|[hugo-ink](https://github.com/knadh/hugo-ink)|244|104|Blog,Dark,Personal,Portfolio,Responsive|2021-07-10T01:58:22Z|
+|[hugo-theme-yinyang](https://github.com/joway/hugo-theme-yinyang)|242|92|Blog,Personal,Responsive|2021-07-09T11:46:33Z|
+|[hugo-clarity](https://github.com/chipzoller/hugo-clarity)|234|142|Blog,Dark|2021-07-10T10:41:18Z|
+|[hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex)|234|148|Blog|2021-06-28T00:08:15Z|
+|[hugo-orbit-theme](https://github.com/aerohub/hugo-orbit-theme)|228|100||2021-07-03T11:25:17Z|
+|[airspace-hugo](https://github.com/themefisher/airspace-hugo)|223|445|Blog,Bootstrap,Company,Light,Multilingual,Portfolio,Responsive,White|2021-07-09T06:19:44Z|
+|[hyde-hyde](https://github.com/htr3n/hyde-hyde)|222|207|Blog,Personal,Responsive|2021-06-24T14:50:34Z|
+|[hugo-theme-pure](https://github.com/xiaoheiAh/hugo-theme-pure)|221|107|Blog,Dark,White|2021-07-09T03:38:40Z|
+|[bilberry-hugo-theme](https://github.com/Lednerb/bilberry-hugo-theme)|219|110|Blog,Multilingual,Personal,Responsive|2021-06-28T12:53:46Z|
+|[hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus)|215|141|Blog,Responsive|2021-07-09T15:42:13Z|
+|[hugo-goa](https://github.com/kaapiandcode/hugo-goa)|213|106|Bootstrap|2021-07-05T18:30:08Z|
+|[hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream)|213|99|Blog,Personal,Responsive|2021-07-05T02:16:10Z|
+|[hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji)|210|69|Blog,Responsive|2021-07-10T02:32:58Z|
+|[syna](https://github.com/okkur/syna)|209|106|Blog,Bootstrap,Company,Docs,Personal,Portfolio,Responsive|2021-07-04T14:53:37Z|
+|[tale-hugo](https://github.com/EmielH/tale-hugo)|200|93|Blog,Light,Personal,Responsive|2021-07-02T02:38:39Z|
+|[hugo-theme-bootstrap4-blog](https://github.com/alanorth/hugo-theme-bootstrap4-blog)|196|139|Blog,Bootstrap|2021-07-09T19:36:57Z|
+|[github-style](https://github.com/MeiK2333/github-style)|194|65|Blog|2021-07-09T02:11:20Z|
+|[hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary)|193|89|Blog|2021-07-09T11:45:51Z|
+|[kross-hugo](https://github.com/themefisher/kross-hugo)|190|344|Blog,Bootstrap,Contact,Light,Portfolio,Responsive,White|2021-07-10T19:13:10Z|
+|[cupper-hugo-theme](https://github.com/zwbetz-gh/cupper-hugo-theme)|188|140|Blog,Dark,Docs|2021-06-19T06:26:06Z|
+|[hugo-theme-anubis](https://github.com/Mitrichius/hugo-theme-anubis)|179|73|Blog,Dark,Light,Multilingual,Personal,Responsive|2021-07-09T22:39:18Z|
+|[hugo-devresume-theme](https://github.com/cowboysmall-tools/hugo-devresume-theme)|177|84||2021-07-10T21:04:08Z|
+|[dot-hugo-documentation-theme](https://github.com/themefisher/dot-hugo-documentation-theme)|175|127|Bootstrap,Contact,Docs,Light,Multilingual,Responsive,White|2021-07-07T17:57:53Z|
+|[hugo-elate-theme](https://github.com/saey55/hugo-elate-theme)|172|100||2021-05-10T21:41:44Z|
+|[uBlogger](https://github.com/uPagge/uBlogger)|172|90|Blog,Dark,Responsive|2021-07-09T19:50:30Z|
+|[hugo-black-and-light-theme](https://github.com/davidhampgonsalves/hugo-black-and-light-theme)|171|81|Personal,Responsive,White|2021-07-02T03:47:21Z|
+|[portio-hugo](https://github.com/StaticMania/portio-hugo)|170|152|Blog,Bootstrap,Contact,Personal,Portfolio,Responsive,White|2021-07-10T19:10:18Z|
+|[hugo_theme_pickles](https://github.com/mismith0227/hugo_theme_pickles)|168|96|Blog,Responsive,White|2021-06-03T23:17:17Z|
+|[hugo-sustain](https://github.com/nurlansu/hugo-sustain)|168|101|Blog,Responsive|2021-06-03T16:32:03Z|
+|[hugo-whisper-theme](https://github.com/zerostaticthemes/hugo-whisper-theme)|168|84|Bootstrap,Docs,Responsive|2021-07-09T03:26:22Z|
+|[hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console)|166|75|Blog,Gallery,Personal,Portfolio,Responsive|2021-07-10T12:09:56Z|
+|[hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc)|165|126|Docs,Responsive|2021-07-10T13:14:42Z|
+|[KeepIt](https://github.com/Fastbyte01/KeepIt)|162|66|Blog,Dark,Gallery,Responsive|2021-07-05T12:32:09Z|
+|[ghostwriter](https://github.com/jbub/ghostwriter)|155|142|Blog,Personal|2021-06-29T08:42:02Z|
+|[raditian-free-hugo-theme](https://github.com/radity/raditian-free-hugo-theme)|150|103|Bootstrap,Contact,Light,Personal,Portfolio,Responsive,White|2021-07-09T08:14:40Z|
+|[lanyon-hugo](https://github.com/tummychow/lanyon-hugo)|148|66|Blog|2021-05-13T02:15:15Z|
+|[hugo-resume](https://github.com/eddiewebb/hugo-resume)|148|143|Portfolio,Responsive|2021-06-30T11:21:27Z|
+|[hugo-bearblog](https://github.com/janraasch/hugo-bearblog)|145|50|Blog,Light,Responsive,White|2021-07-09T11:48:15Z|
+|[harbor](https://github.com/matsuyoshi30/harbor)|145|60|Blog|2021-06-28T12:35:46Z|
+|[hugrid](https://github.com/aerohub/hugrid)|144|57|Portfolio,Responsive|2021-07-06T19:09:32Z|
+|[story](https://github.com/xaprb/story)|141|51|Blog,Newsletter|2021-06-30T03:29:36Z|
+|[hugo-theme-noteworthy](https://github.com/kimcc/hugo-theme-noteworthy)|140|83|Blog,Light,Responsive|2021-07-09T15:17:14Z|
+|[newsroom](https://github.com/onweru/newsroom)|138|61|Blog,Dark|2021-07-09T08:47:25Z|
+|[aether](https://github.com/josephhutch/aether)|137|68|Blog,Personal,Responsive|2021-06-30T03:29:36Z|
+|[hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme)|135|123|Bootstrap,Company,Portfolio,Responsive|2021-07-09T03:30:28Z|
+|[hugo-theme-pixyll](https://github.com/azmelanar/hugo-theme-pixyll)|135|49|Blog,Personal,Responsive|2021-07-09T11:46:39Z|
+|[hugo-coder-portfolio](https://github.com/naro143/hugo-coder-portfolio)|135|59|Blog,Personal,Responsive|2021-07-08T05:51:54Z|
+|[blank](https://github.com/Vimux/blank)|134|70|Blog|2021-07-02T01:21:21Z|
+|[hugo-theme-zen](https://github.com/frjo/hugo-theme-zen)|131|43|Blog,Multilingual,Responsive|2021-07-07T08:37:40Z|
+|[hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc)|127|48|Dark,Docs,Light,Multilingual,Responsive|2021-07-04T10:39:13Z|
+|[liva-hugo](https://github.com/gethugothemes/liva-hugo)|127|128|Blog,Bootstrap,Contact,Light,Portfolio,Responsive,White|2021-07-09T09:25:35Z|
+|[hugo-theme-techdoc](https://github.com/thingsym/hugo-theme-techdoc)|125|105|Docs,Responsive|2021-06-24T18:48:10Z|
+|[hugo-theme-minos](https://github.com/carsonip/hugo-theme-minos)|120|68|Blog|2021-07-07T11:51:41Z|
+|[compose](https://github.com/onweru/compose)|118|49|Dark,Docs|2021-07-08T20:31:44Z|
+|[hugo-theme-air](https://github.com/syui/hugo-theme-air)|112|62|Blog|2021-07-05T08:48:00Z|
+|[slate](https://github.com/gesquive/slate)|112|52||2021-07-08T16:32:49Z|
+|[hugo-theme-nix](https://github.com/LordMathis/hugo-theme-nix)|110|82|Blog,Multilingual|2021-07-05T12:14:20Z|
+|[educenter-hugo](https://github.com/themefisher/educenter-hugo)|110|252|Blog,Bootstrap,Company,Education,Light,Multilingual,Portfolio,Responsive,White|2021-07-05T12:20:25Z|
+|[hugo-researcher](https://github.com/ojroques/hugo-researcher)|109|72|Blog,Bootstrap,Personal,Responsive|2021-07-10T07:58:29Z|
+|[hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme)|109|49|Blog|2021-07-09T11:46:39Z|
+|[timer-hugo](https://github.com/themefisher/timer-hugo)|108|98|Blog,Bootstrap,Company,Contact,Light,Responsive,White|2021-06-20T19:04:33Z|
+|[vex-hugo](https://github.com/themefisher/vex-hugo)|107|233|Bootstrap,Ecommerce|2021-07-05T08:47:13Z|
+|[hugo-primer](https://github.com/qqhann/hugo-primer)|107|43|Blog,Light,Personal,White|2021-07-04T10:39:09Z|
+|[hugo-nederburg-theme](https://github.com/appernetic/hugo-nederburg-theme)|107|88|Blog,Responsive|2021-06-29T17:01:32Z|
+|[forty](https://github.com/MarcusVirg/forty)|107|111|Blog,Company,Contact,Portfolio|2021-04-20T03:07:31Z|
+|[hugo-theme-slim](https://github.com/zhe/hugo-theme-slim)|103|53|Blog|2021-06-17T22:50:17Z|
+|[hugo-base16-theme](https://github.com/htdvisser/hugo-base16-theme)|102|55|Blog|2021-07-02T06:27:55Z|
+|[Hugo-Octopress](https://github.com/parsiya/Hugo-Octopress)|101|35||2021-06-23T06:40:29Z|
+|[academia-hugo](https://github.com/themefisher/academia-hugo)|101|130|Blog,Company,Contact,Dark,Docs,Gallery,Light,Multilingual,Personal,Portfolio,Responsive|2021-07-10T02:45:59Z|
+|[etch](https://github.com/LukasJoswiak/etch)|100|64|Blog,Responsive|2021-06-27T15:58:39Z|
+|[navigator-hugo](https://github.com/gethugothemes/navigator-hugo)|100|112|Blog,Bootstrap,Company,Contact,Dark,Multilingual,Responsive|2021-07-06T10:38:02Z|
+|[parsa-hugo](https://github.com/themefisher/parsa-hugo)|98|301|Blog,Bootstrap,Contact,Light,Portfolio,Responsive,White|2021-06-26T16:55:52Z|
+|[hugo-now-ui](https://github.com/cboettig/hugo-now-ui)|98|62|Bootstrap|2021-07-02T08:44:54Z|
+|[hugo-swift-theme](https://github.com/onweru/hugo-swift-theme)|98|67|Blog,Dark,Light|2021-07-09T08:47:30Z|
+|[pulp](https://github.com/koirand/pulp)|97|54|Blog,Light,Personal|2021-07-04T06:28:01Z|
+|[mediumish-gohugo-theme](https://github.com/lgaida/mediumish-gohugo-theme)|97|73|Blog,Personal,Responsive|2021-06-29T17:01:32Z|
+|[hugo-vitae](https://github.com/dataCobra/hugo-vitae)|96|46|Blog,Light,Responsive|2021-07-09T20:45:28Z|
+|[amperage](https://github.com/asurbernardo/amperage)|96|32|Blog,Light,Multilingual,Personal,Responsive,White|2021-07-02T10:09:29Z|
+|[hugo-changelog-theme](https://github.com/jsnjack/hugo-changelog-theme)|95|24||2021-06-13T16:23:38Z|
+|[hugo-theme-basic](https://github.com/siegerts/hugo-theme-basic)|94|43|Blog,Responsive|2021-06-09T00:09:51Z|
+|[hugo-pacman-theme](https://github.com/coderzh/hugo-pacman-theme)|94|26|Blog,Responsive|2020-12-01T01:08:21Z|
+|[smol](https://github.com/colorchestra/smol)|93|35|Blog,Light,Responsive|2021-06-21T03:24:35Z|
+|[hugo-refresh](https://github.com/PippoRJ/hugo-refresh)|93|56|Blog,Light,Multilingual,Personal,Responsive|2021-07-08T05:36:29Z|
+|[hugo-theme-chunky-poster](https://github.com/puresyntax71/hugo-theme-chunky-poster)|88|88|Blog,Light,Multilingual,Responsive|2021-07-03T21:47:09Z|
+|[hugo-theme-massively](https://github.com/curtistimson/hugo-theme-massively)|88|100|Blog|2021-06-23T09:33:50Z|
+|[hugo-icon](https://github.com/SteveLane/hugo-icon)|88|69|Agency,Company,Personal,Responsive|2021-06-30T03:29:35Z|
+|[somrat](https://github.com/somratpro/somrat)|87|102|Blog,Bootstrap,Contact,Dark,Light,Portfolio,Responsive,White|2021-07-10T15:40:52Z|
+|[hugo-identity-theme](https://github.com/aerohub/hugo-identity-theme)|86|46|Contact,Responsive|2021-05-21T08:33:54Z|
+|[hallo-hugo](https://github.com/EmielH/hallo-hugo)|85|48|Personal,Responsive|2021-07-06T01:11:18Z|
+|[hugo-classic](https://github.com/goodroot/hugo-classic)|84|45|Blog,Personal|2021-07-04T05:07:07Z|
+|[purehugo](https://github.com/dplesca/purehugo)|84|59|Blog|2021-05-11T15:30:31Z|
+|[avicenna](https://github.com/hadisinaee/avicenna)|83|36|Personal,Responsive|2021-07-02T13:07:56Z|
+|[castanet](https://github.com/mattstratton/castanet)|82|47|Responsive|2021-07-02T15:40:58Z|
+|[hugo-uilite](https://github.com/uicardioHQ/hugo-uilite)|81|55|Blog,Portfolio,Responsive|2021-06-22T01:51:53Z|
+|[hugo-webslides](https://github.com/RCJacH/hugo-webslides)|81|28|Responsive|2021-06-22T07:33:40Z|
+|[whiteplain](https://github.com/taikii/whiteplain)|80|38|Blog,White|2021-07-04T10:39:31Z|
+|[northendlab-hugo](https://github.com/gethugothemes/northendlab-hugo)|79|158|Blog,Bootstrap,Contact,Light,Portfolio,Responsive,White|2021-06-20T18:55:11Z|
+|[hugo-theme-dimension](https://github.com/your-identity/hugo-theme-dimension)|78|88|Blog,Dark,Personal,Responsive|2021-06-24T22:41:54Z|
+|[personal-web](https://github.com/bjacquemet/personal-web)|78|56|Blog,Personal,Portfolio|2021-07-07T04:15:44Z|
+|[manis-hugo-theme](https://github.com/yursan9/manis-hugo-theme)|73|39|Blog,Light,Personal|2021-07-09T02:55:06Z|
+|[roxo-hugo](https://github.com/StaticMania/roxo-hugo)|73|86|Agency,Blog,Company,Portfolio,Responsive|2021-07-08T12:41:08Z|
+|[bigspring-hugo-startup-theme](https://github.com/themefisher/bigspring-hugo-startup-theme)|71|226|Blog,Bootstrap,Contact,Light,Multilingual,Responsive,White|2021-07-10T05:20:25Z|
+|[almeida-cv](https://github.com/ineesalmeida/almeida-cv)|71|34||2021-07-11T00:25:43Z|
+|[minimal-bootstrap-hugo-theme](https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme)|70|30|Blog,Bootstrap|2021-07-04T08:13:51Z|
+|[hugo-scroll](https://github.com/janraasch/hugo-scroll)|69|60|Contact,Personal,Responsive|2021-06-29T06:13:15Z|
+|[hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)|69|11|Blog,Bootstrap,Multilingual,Responsive|2021-07-09T08:35:38Z|
+|[devfest-theme-hugo](https://github.com/GDGToulouse/devfest-theme-hugo)|65|44||2021-06-26T20:45:19Z|
+|[hargo-hugo-ecommerce-theme](https://github.com/themefisher/hargo-hugo-ecommerce-theme)|65|114|Blog,Bootstrap,Contact,Ecommerce,Light,Responsive,White|2021-06-20T18:55:09Z|
+|[hugo-bare-min-theme](https://github.com/kaushalmodi/hugo-bare-min-theme)|65|15||2021-06-04T13:35:08Z|
+|[hugo-journal](https://github.com/dashdashzako/hugo-journal)|64|39|Blog|2021-05-12T10:30:38Z|
+|[ace-documentation](https://github.com/vantagedesign/ace-documentation)|64|39|Bootstrap,Docs,Light,Responsive|2021-06-09T22:51:11Z|
+|[hugo-terrassa-theme](https://github.com/danielkvist/hugo-terrassa-theme)|63|68|Blog,Company,Contact,Personal|2021-06-07T06:07:56Z|
+|[hugo-tanka](https://github.com/nanxstats/hugo-tanka)|63|33|Bootstrap,Responsive|2021-07-10T15:45:51Z|
+|[hugo-story](https://github.com/caressofsteel/hugo-story)|62|23|Blog,Portfolio,Responsive|2021-07-08T20:05:01Z|
+|[papercss-hugo-theme](https://github.com/zwbetz-gh/papercss-hugo-theme)|61|34|Blog|2021-06-28T02:46:45Z|
+|[axiom](https://github.com/marketempower/axiom)|61|18|Blog,Responsive|2021-06-28T18:54:55Z|
+|[Binario](https://github.com/Vimux/Binario)|60|27|Blog,Dark,Responsive|2021-07-04T16:16:36Z|
+|[nofancy](https://github.com/gizak/nofancy)|59|30|Blog,Personal|2021-04-03T09:44:38Z|
+|[hugo-flex](https://github.com/de-souza/hugo-flex)|58|26|Responsive|2021-06-25T03:25:35Z|
+|[hugo-bootstrap](https://github.com/mmrath/hugo-bootstrap)|58|54|Blog,Personal|2021-01-17T22:56:30Z|
+|[material-design](https://github.com/pdevty/material-design)|58|32|Blog|2021-07-03T10:54:58Z|
+|[vanilla-bootstrap-hugo-theme](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)|57|39|Blog,Bootstrap|2021-06-06T17:40:41Z|
+|[hugo-kiera](https://github.com/funkydan2/hugo-kiera)|56|40|Blog,Responsive|2021-07-03T13:19:52Z|
+|[hugo-theme-pico](https://github.com/negrel/hugo-theme-pico)|56|36|Blog,Dark,Light,Multilingual,Personal,White|2021-06-19T18:46:04Z|
+|[devise](https://github.com/austingebauer/devise)|55|20|Blog,Personal|2021-06-24T06:38:20Z|
+|[hugo-tania](https://github.com/WingLim/hugo-tania)|55|34|Blog,Dark,Light,Responsive|2021-07-09T10:40:37Z|
+|[hugo-lamp](https://github.com/huyb1991/hugo-lamp)|54|30|Blog,Responsive|2021-05-30T20:20:09Z|
+|[er](https://github.com/lingxz/er)|54|26|Blog,Responsive,White|2021-06-26T06:13:31Z|
+|[hugo-theme-blueberry-detox](https://github.com/allnightgrocery/hugo-theme-blueberry-detox)|54|59|Blog,White|2021-02-19T20:08:58Z|
+|[indigo](https://github.com/AngeloStavrow/indigo)|53|30|Blog,Responsive|2021-07-02T03:29:58Z|
+|[bento](https://github.com/leonardofaria/bento)|53|11|Personal,White|2021-07-10T15:49:22Z|
+|[DoIt](https://github.com/HEIGE-PCloud/DoIt)|52|10|Blog,Dark,Responsive|2021-07-10T14:47:22Z|
+|[hugo-cards](https://github.com/bul-ikana/hugo-cards)|52|47|Blog,Bootstrap,Responsive|2021-07-01T08:06:27Z|
+|[hugo-xmag](https://github.com/yihui/hugo-xmag)|52|32|Blog,Magazine,Responsive|2021-05-31T12:01:45Z|
+|[simple-a](https://github.com/alxschwarz/simple-a)|52|29||2021-06-30T03:29:34Z|
+|[hugo-theme-texify](https://github.com/queensferryme/hugo-theme-texify)|51|14|Blog,Light,Responsive|2021-07-10T16:10:20Z|
+|[influencer-hugo](https://github.com/gethugothemes/influencer-hugo)|50|47|Blog,Bootstrap,Contact,Ecommerce,Light,Responsive,White|2021-07-05T11:28:37Z|
+|[gochowdown](https://github.com/seanlane/gochowdown)|50|51|Responsive|2021-07-05T18:50:25Z|
+|[simplicity](https://github.com/eshlox/simplicity)|50|19|Blog,Responsive|2021-06-04T12:35:30Z|
+|[hugo-theme-bootie-docs](https://github.com/progrhyme/hugo-theme-bootie-docs)|50|12|Bootstrap,Docs|2021-02-13T13:32:54Z|
+|[hugo-blog-jeffprod](https://github.com/Tazeg/hugo-blog-jeffprod)|49|21|Archives,Blog,Personal|2021-06-27T12:52:40Z|
+|[erblog](https://github.com/ertuil/erblog)|49|26|Blog,Gallery,Personal,Responsive|2021-07-04T21:26:08Z|
+|[hugo-theme-winning](https://github.com/cssandstuff/hugo-theme-winning)|49|13||2021-06-11T11:45:02Z|
+|[kraiklyn](https://github.com/jsnjack/kraiklyn)|48|30|Docs|2021-06-24T18:49:35Z|
+|[soho](https://github.com/alexandrevicenzi/soho)|47|42|Blog,Responsive|2021-07-05T07:43:07Z|
+|[hugo-initio](https://github.com/miguelsimoni/hugo-initio)|47|84|Blog,Bootstrap,Personal,Portfolio,Responsive,White|2021-07-01T09:04:15Z|
 |[liquorice](https://github.com/eliasson/liquorice)|47|18||2021-05-02T05:55:57Z|
-|[hugo-dusk](https://github.com/gyorb/hugo-dusk)|46|35|blog,responsive,google analytics,disqus,utterances,syntax highlighting,custom themes,minimal,minimalist,clean,dark|2021-06-23T23:13:52Z|
-|[soho](https://github.com/alexandrevicenzi/soho)|45|42|blog,responsive,clean,minimalist|2021-06-22T23:38:34Z|
-|[hugo-casper3](https://github.com/jonathanjanssens/hugo-casper3)|45|26|blog,dark,light|2021-04-16T06:42:58Z|
-|[hugonews](https://github.com/spaghettiwews/hugonews)|43|12|bookmarking,minimal,clean|2021-06-08T02:22:15Z|
-|[hugo-shopping-product-catalogue-simple](https://github.com/kishaningithub/hugo-shopping-product-catalogue-simple)|43|40|shopping,catalogue,product catalogue,ecommerce,minimal,responsive|2021-05-27T07:26:03Z|
-|[alpha-church](https://github.com/funkydan2/alpha-church)|42|42|church,podcast|2021-06-22T23:01:11Z|
-|[hugo-lodi-theme](https://github.com/xaviablaza/hugo-lodi-theme)|42|35|lodi,responsive,hero,personal,portfolio,case study,ux|2021-05-05T05:32:00Z|
-|[hugo-theme-w3css-basic](https://github.com/it-gro/hugo-theme-w3css-basic)|42|18|blog,company,contact form,custom themes,disqus,font awesome,gallery,google analytics,landing page,mobile,monochromatic,pages,personal,portfolio,products,projects,responsive,search,syntax highlighting,w3css|2021-06-14T14:44:50Z|
-|[vienna](https://github.com/keichi/vienna)|42|42|blog,tags,bootstrap|2021-05-02T15:04:13Z|
-|[slick](https://github.com/spookey/slick)|41|17|blog,personal,responsive,mobile,minimal,clean,light,high contrast,typography|2021-06-20T10:53:40Z|
-|[hugo-alageek-theme](https://github.com/gkmngrgn/hugo-alageek-theme)|41|17|clean,fast,responsive,typography,disqus,light,dark,syntax-highlighting|2021-06-26T10:25:27Z|
-|[hugo-theme-tokiwa](https://github.com/heyeshuang/hugo-theme-tokiwa)|40|7|minimal,website,responsive,blog|2021-06-14T20:58:53Z|
-|[solar-theme-hugo](https://github.com/bake/solar-theme-hugo)|40|25|blog,light,dark,responsive,solarized|2021-05-24T18:16:26Z|
-|[onetwothree](https://github.com/schollz/onetwothree)|40|17|minimal,mobile,responsive,elegant|2021-02-07T07:14:32Z|
-|[hugo-geekblog](https://github.com/thegeeklab/hugo-geekblog)|39|16|blog,responsive,simple|2021-06-26T17:01:09Z|
-|[bare-hugo-theme](https://github.com/orf/bare-hugo-theme)|39|19|blog,responsive,minimal,clean,simple,google-analytics,light,fast,flexbox,bulma|2021-06-22T02:26:59Z|
-|[bootstrap-bp-hugo-startpage](https://github.com/spech66/bootstrap-bp-hugo-startpage)|39|19|minimalist,single-page,clean,simple,bootstrap,responsive,google analytics,one-page,light,fast|2021-06-18T01:53:14Z|
-|[vncnt-hugo](https://github.com/fncnt/vncnt-hugo)|39|23|minimal,landingpage,responsive,fontawesome,personal|2021-05-24T10:50:04Z|
-|[charaka-hugo-theme](https://github.com/natarajmb/charaka-hugo-theme)|39|31|personal,blog,simple,clean,minimalist,highlight.js,jssocials,font-awesome,bluma|2021-04-13T19:43:11Z|
-|[hugo-theme-revealjs](https://github.com/RealOrangeOne/hugo-theme-revealjs)|39|12|presentation,revealjs|2021-03-26T14:40:09Z|
-|[paperback](https://github.com/dashdashzako/paperback)|39|16|minimalist,reading,sepia,blog|2021-05-31T16:47:32Z|
-|[hugo-sodium-theme](https://github.com/uicardioHQ/hugo-sodium-theme)|38|24|minimal,responsive,clean,modern,gradients,portfolio,blog,uicardio|2021-05-12T13:47:30Z|
-|[hugo-split-theme](https://github.com/escalate/hugo-split-theme)|38|57|minimal,onepage,one page,responsive,personal|2021-06-23T18:59:15Z|
-|[hugo-hello-programmer-theme](https://github.com/lubang/hugo-hello-programmer-theme)|37|24|blog,hugo,lulab,donggeun,bang,lubang,programmer|2021-05-04T18:05:32Z|
-|[hugo-theme-vec](https://github.com/yiichou/hugo-theme-vec)|37|24|minimal,clean,neat,black white,blog|2021-05-07T03:08:34Z|
-|[hugo-tailwind-journal](https://github.com/ianrodrigues/hugo-tailwind-journal)|36|10|minimalist,reading,blog,tailwindcss|2021-06-25T13:06:11Z|
-|[bootstrap-bp-hugo-theme](https://github.com/spech66/bootstrap-bp-hugo-theme)|36|17|minimalist,minimal,blog,clean,simple,bootstrap,responsive,google analytics,syntax sighlighting,light,fast,dark,pages,font awesome,fontawesome,multilingual,customizable,mobile|2021-05-01T21:36:44Z|
-|[hugo-theme-docport](https://github.com/vjeantet/hugo-theme-docport)|35|22|documentation,menu,slide,search|2021-06-24T11:32:55Z|
-|[restaurant-hugo](https://github.com/gethugothemes/restaurant-hugo)|35|44|landing-page,fast,light,white,modern,business,agency-template,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,company,projects,creative,contact-form,custom-themes,mobile,minimalistic,gethugothemes|2021-05-21T20:40:19Z|
-|[ramium](https://github.com/rafed/ramium)|34|20|blog,responsive,google analytics,disqus,chords,google search,bulma,fast,social media share,code,math equations,seo|2021-06-20T00:12:34Z|
-|[Blonde](https://github.com/opera7133/Blonde)|33|22|blog,minimal,light,dark,simple,clean,tailwindcss,personal,responsive|2021-06-26T07:29:22Z|
-|[infinity-hugo](https://github.com/gethugothemes/infinity-hugo)|33|47|comming-soon,landing-page,themefisher,hugo-theme,hugo-templates,bootstrap4,gethugothemes|2021-03-26T13:59:29Z|
-|[hugo-travelify-theme](https://github.com/balaramadurai/hugo-travelify-theme)|33|24|syntax highlighting,rss,widgets,google analytics,responsive,carousel,slider|2021-04-10T01:52:32Z|
-|[hugo-product-launch](https://github.com/janraasch/hugo-product-launch)|32|20|coming soon,clean,business,contact,contact form,company,landing page,launch page,netlify,newsletter,onepage,one page,personal,projects,product,simple,single page,single product,starter,tailwindcss,responsive,theme|2021-06-21T13:06:43Z|
-|[autophugo](https://github.com/kc0bfv/autophugo)|32|30|gallery,photoblog,responsive,mobile,dark,creative,images|2021-05-17T04:32:47Z|
-|[hugo-theme-iris](https://github.com/peaceiris/hugo-theme-iris)|32|14|blog,responsive,personal,google-analytics,portfolio,dark,disqus,multilingual,fast,mobile,syntax-highlighting,flexbox,presentation,bulma,netlify,slide|2021-06-25T19:31:44Z|
-|[edidor](https://github.com/sfengyuan/edidor)|32|12|blog,editor,edidor|2021-04-11T14:20:32Z|
-|[hugo-lime](https://github.com/uicardioHQ/hugo-lime)|31|24|minimal,blog,services,responsive,bootstrap,uicardio,illustrations|2021-04-03T08:03:20Z|
-|[hugograyscale](https://github.com/runningstream/hugograyscale)|31|34|minimal,simple,landing-page,one-page,responsive,accessible,company|2021-06-11T13:37:59Z|
-|[internet-weblog](https://github.com/jnjosh/internet-weblog)|31|20|blog,personal,minimal,microblog,photoblog,linkblog,responsive|2021-05-11T15:48:41Z|
-|[grid-side](https://github.com/chipsenkbeil/grid-side)|31|21|blog,portfolio,projects,gallery|2021-02-23T15:18:11Z|
-|[hugo-developer-portfolio](https://github.com/samrobbins85/hugo-developer-portfolio)|30|21|portfolio,developer,responsive,uikit|2021-06-24T06:48:23Z|
-|[HugoTeX](https://github.com/HelloRusk/HugoTeX)|30|11|blog,minimal,simple,latex|2021-06-08T14:10:14Z|
-|[hugo-conference](https://github.com/jweslley/hugo-conference)|30|25|conference,responsive,l10n,google-analytics|2021-05-01T20:40:11Z|
-|[origin-hugo-theme](https://github.com/moody-person/origin-hugo-theme)|29|13|blog,responsive,light,simple|2021-06-26T16:53:07Z|
-|[inkblotty](https://github.com/tosi29/inkblotty)|29|23|blog,responsive,wordpress,disqus,google analytics|2021-05-11T15:18:06Z|
-|[crab](https://github.com/thomasheller/crab)|28|21|clean|2021-04-19T20:22:58Z|
-|[contrast-hugo](https://github.com/niklasbuschmann/contrast-hugo)|27|24|blog|2021-06-20T01:50:07Z|
-|[cayman-hugo-theme](https://github.com/zwbetz-gh/cayman-hugo-theme)|27|23|blog,clean,color configuration|2021-05-30T05:36:01Z|
-|[paperesque](https://github.com/capnfabs/paperesque)|26|7|blog,personal,light,responsive,minimal|2021-05-15T17:35:55Z|
-|[strange-case](https://github.com/ExchangeRate-API/strange-case)|26|28|blog,responsive,minimal,simple,clean,bootstrap|2021-03-04T12:57:53Z|
-|[hugo-sugoi](https://github.com/aanupam23/hugo-sugoi)|25|15|responsive,minimal,blog,modern,clean,customizable|2021-05-02T03:15:34Z|
-|[twenty-twenty-hugo](https://github.com/themefisher/twenty-twenty-hugo)|25|65|landing-page,fast,light,white,modern,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,creative,custom-themes,mobile,minimalistic,pages,resume,wordpress,portfolio,google analytics,customizable,flexbox,presentation,product,theme,gethugothemes|2021-05-21T10:40:43Z|
-|[hugo-piercer-theme](https://github.com/danielkvist/hugo-piercer-theme)|25|15|blog,responsive,minimal,simple,font awesome,dark,landing page,contact form,mobile,fast,customizable,google fonts|2021-06-02T18:58:21Z|
-|[hugo-highlights-theme](https://github.com/schmanat/hugo-highlights-theme)|25|23|portfolio,onepage,one page,contact form,google analytics|2021-01-06T03:08:42Z|
-|[hugo-theme-timeline](https://github.com/s4n7h0/hugo-theme-timeline)|24|20|customizable,dark,light,minimal,personal,responsive,simple,technical,timeline|2021-06-21T04:18:14Z|
-|[showcase-hugo-theme](https://github.com/apvarun/showcase-hugo-theme)|24|14|clean,gallery,minimal,minimalist,mobile,one page,personal,responsive,simple,single page,tailwind,starter,projects,white|2021-06-22T17:21:53Z|
+|[engimo](https://github.com/achary/engimo)|47|28|Blog,Responsive|2021-03-15T03:52:08Z|
+|[hugo-geekblog](https://github.com/thegeeklab/hugo-geekblog)|46|16|Blog,Responsive|2021-07-08T05:27:03Z|
+|[hugo-dusk](https://github.com/gyorb/hugo-dusk)|46|35|Blog,Dark|2021-06-23T23:13:52Z|
+|[hugo-casper3](https://github.com/jonathanjanssens/hugo-casper3)|45|27|Blog,Dark,Light|2021-04-16T06:42:58Z|
+|[alpha-church](https://github.com/funkydan2/alpha-church)|44|42|Church|2021-07-09T08:02:17Z|
+|[hugonews](https://github.com/spaghettiwews/hugonews)|43|12||2021-06-08T02:22:15Z|
+|[hugo-shopping-product-catalogue-simple](https://github.com/kishaningithub/hugo-shopping-product-catalogue-simple)|43|39|Ecommerce,Responsive|2021-05-27T07:26:03Z|
+|[hugo-theme-w3css-basic](https://github.com/it-gro/hugo-theme-w3css-basic)|42|19|Blog,Company,Contact,Gallery,Personal,Portfolio,Responsive|2021-06-14T14:44:50Z|
+|[hugo-alageek-theme](https://github.com/gkmngrgn/hugo-alageek-theme)|42|17|Dark,Light,Responsive|2021-07-02T10:29:34Z|
+|[vienna](https://github.com/keichi/vienna)|42|42|Blog,Bootstrap|2021-05-02T15:04:13Z|
+|[hugo-lodi-theme](https://github.com/xaviablaza/hugo-lodi-theme)|42|36|Personal,Portfolio,Responsive|2021-05-05T05:32:00Z|
+|[slick](https://github.com/spookey/slick)|41|17|Blog,Light,Personal,Responsive|2021-07-05T19:27:02Z|
+|[hugo-theme-tokiwa](https://github.com/heyeshuang/hugo-theme-tokiwa)|40|7|Blog,Responsive|2021-06-14T20:58:53Z|
+|[vncnt-hugo](https://github.com/fncnt/vncnt-hugo)|40|23|Personal,Responsive|2021-07-03T11:27:48Z|
+|[solar-theme-hugo](https://github.com/bake/solar-theme-hugo)|40|26|Blog,Dark,Light,Responsive|2021-05-24T18:16:26Z|
+|[bootstrap-bp-hugo-startpage](https://github.com/spech66/bootstrap-bp-hugo-startpage)|40|20|Bootstrap,Light,Responsive|2021-06-30T17:48:58Z|
+|[charaka-hugo-theme](https://github.com/natarajmb/charaka-hugo-theme)|40|31|Blog,Personal|2021-06-28T02:35:09Z|
+|[onetwothree](https://github.com/schollz/onetwothree)|40|17|Responsive|2021-02-07T07:14:32Z|
+|[bare-hugo-theme](https://github.com/orf/bare-hugo-theme)|39|19|Blog,Light,Responsive|2021-06-22T02:26:59Z|
+|[paperback](https://github.com/dashdashzako/paperback)|39|16|Blog|2021-05-31T16:47:32Z|
+|[hugo-theme-revealjs](https://github.com/RealOrangeOne/hugo-theme-revealjs)|39|12||2021-03-26T14:40:09Z|
+|[hugo-split-theme](https://github.com/escalate/hugo-split-theme)|38|57|Personal,Responsive|2021-06-23T18:59:15Z|
+|[hugo-sodium-theme](https://github.com/uicardioHQ/hugo-sodium-theme)|38|24|Blog,Portfolio,Responsive|2021-05-12T13:47:30Z|
+|[hugo-hello-programmer-theme](https://github.com/lubang/hugo-hello-programmer-theme)|37|25|Blog|2021-05-04T18:05:32Z|
+|[hugo-theme-vec](https://github.com/yiichou/hugo-theme-vec)|37|24|Blog|2021-05-07T03:08:34Z|
+|[bootstrap-bp-hugo-theme](https://github.com/spech66/bootstrap-bp-hugo-theme)|36|17|Blog,Bootstrap,Dark,Light,Multilingual,Responsive|2021-05-01T21:36:44Z|
+|[hugo-tailwind-journal](https://github.com/ianrodrigues/hugo-tailwind-journal)|36|10|Blog|2021-06-25T13:06:11Z|
+|[bulma](https://github.com/jeblister/bulma)|36|15|Blog,Responsive|2021-05-20T09:04:38Z|
+|[hugo-theme-iris](https://github.com/peaceiris/hugo-theme-iris)|35|14|Blog,Dark,Multilingual,Personal,Portfolio,Responsive|2021-07-10T15:11:46Z|
+|[restaurant-hugo](https://github.com/gethugothemes/restaurant-hugo)|35|44|Blog,Bootstrap,Company,Contact,Light,Responsive,White|2021-07-07T05:21:14Z|
+|[hugo-theme-docport](https://github.com/vjeantet/hugo-theme-docport)|35|22|Docs|2021-06-24T11:32:55Z|
+|[Blonde](https://github.com/opera7133/Blonde)|34|23|Blog,Dark,Light,Personal,Responsive|2021-06-29T08:53:22Z|
+|[ramium](https://github.com/rafed/ramium)|34|20|Blog,Responsive|2021-06-20T00:12:34Z|
+|[infinity-hugo](https://github.com/gethugothemes/infinity-hugo)|33|46|Bootstrap|2021-07-05T10:48:13Z|
+|[hugo-travelify-theme](https://github.com/balaramadurai/hugo-travelify-theme)|33|24|Responsive|2021-04-10T01:52:32Z|
+|[hugo-product-launch](https://github.com/janraasch/hugo-product-launch)|32|20|Company,Contact,Newsletter,Personal,Responsive|2021-06-21T13:06:43Z|
+|[edidor](https://github.com/sfengyuan/edidor)|32|12|Blog|2021-04-11T14:20:32Z|
+|[autophugo](https://github.com/kc0bfv/autophugo)|31|30|Blog,Dark,Gallery,Responsive|2021-07-10T18:58:08Z|
+|[HugoTeX](https://github.com/HelloRusk/HugoTeX)|31|11|Blog|2021-07-04T02:38:23Z|
+|[hugograyscale](https://github.com/runningstream/hugograyscale)|31|35|Company,Responsive|2021-06-11T13:37:59Z|
+|[internet-weblog](https://github.com/jnjosh/internet-weblog)|31|20|Blog,Personal,Responsive|2021-05-11T15:48:41Z|
+|[hugo-lime](https://github.com/uicardioHQ/hugo-lime)|31|24|Blog,Bootstrap,Responsive|2021-04-03T08:03:20Z|
+|[hugo-developer-portfolio](https://github.com/samrobbins85/hugo-developer-portfolio)|30|21|Portfolio,Responsive|2021-06-24T06:48:23Z|
+|[grid-side](https://github.com/chipsenkbeil/grid-side)|30|21|Blog,Gallery,Portfolio|2021-07-08T02:13:31Z|
+|[hugo-conference](https://github.com/jweslley/hugo-conference)|30|25|Responsive|2021-05-01T20:40:11Z|
+|[inkblotty](https://github.com/tosi29/inkblotty)|29|23|Blog,Responsive|2021-05-11T15:18:06Z|
+|[origin-hugo-theme](https://github.com/moody-person/origin-hugo-theme)|29|13|Blog,Light,Responsive|2021-06-26T16:53:07Z|
+|[crab](https://github.com/thomasheller/crab)|28|21||2021-04-19T20:22:58Z|
+|[cayman-hugo-theme](https://github.com/zwbetz-gh/cayman-hugo-theme)|27|23|Blog|2021-07-09T11:46:48Z|
+|[contrast-hugo](https://github.com/niklasbuschmann/contrast-hugo)|27|24|Blog|2021-06-20T01:50:07Z|
+|[paperesque](https://github.com/capnfabs/paperesque)|26|7|Blog,Light,Personal,Responsive|2021-05-15T17:35:55Z|
+|[showcase-hugo-theme](https://github.com/apvarun/showcase-hugo-theme)|26|15|Gallery,Personal,Responsive,White|2021-07-10T07:11:41Z|
+|[strange-case](https://github.com/ExchangeRate-API/strange-case)|26|28|Blog,Bootstrap,Responsive|2021-03-04T12:57:53Z|
+|[twenty-twenty-hugo](https://github.com/themefisher/twenty-twenty-hugo)|25|65|Blog,Bootstrap,Light,Portfolio,Responsive,White|2021-07-04T11:16:10Z|
+|[hugo-sugoi](https://github.com/aanupam23/hugo-sugoi)|25|14|Blog,Responsive|2021-05-02T03:15:34Z|
+|[hugo-highlights-theme](https://github.com/schmanat/hugo-highlights-theme)|25|23|Contact,Portfolio|2021-01-06T03:08:42Z|
+|[hugo-piercer-theme](https://github.com/danielkvist/hugo-piercer-theme)|25|15|Blog,Contact,Dark,Responsive|2021-06-02T18:58:21Z|
+|[aafu](https://github.com/darshanbaral/aafu)|25|27|Blog,Portfolio|2021-07-08T11:03:47Z|
+|[hugo-theme-lean-launch-page](https://github.com/felicianotech/hugo-theme-lean-launch-page)|24|16||2021-06-15T21:00:27Z|
+|[yourfolio](https://github.com/serg/yourfolio)|24|20|Personal,Portfolio,Responsive|2021-06-06T19:24:58Z|
+|[hugo-theme-timeline](https://github.com/s4n7h0/hugo-theme-timeline)|24|21|Dark,Light,Personal,Responsive|2021-06-21T04:18:14Z|
 |[hugo-stellar-theme](https://github.com/antonpolishko/hugo-stellar-theme)|24|17||2021-05-01T01:02:21Z|
-|[yourfolio](https://github.com/serg/yourfolio)|24|20|responsive,minimal,simple,personal,portfolio|2021-06-06T19:24:58Z|
 |[hestia-pure](https://github.com/diwao/hestia-pure)|24|8||2021-04-03T00:43:52Z|
-|[hugo-theme-lean-launch-page](https://github.com/felicianotech/hugo-theme-lean-launch-page)|24|16|simple,launch page,single page,landing-page|2021-06-15T21:00:27Z|
-|[allegiant](https://github.com/brycematheson/allegiant)|24|14|blog,hugo,allegiant|2020-12-01T09:41:21Z|
-|[aafu](https://github.com/darshanbaral/aafu)|23|27|portfolio,accordion,resume,blog|2021-06-05T17:51:10Z|
-|[hugo-material-blog](https://github.com/Xzya/hugo-material-blog)|23|21|blog,material design,multilingual,clean,google analytics,responsive|2021-03-06T05:07:42Z|
-|[the-roots-home](https://github.com/rmsubekti/the-roots-home)|22|7|light,simple,folder,content|2021-06-26T17:42:32Z|
-|[hugo-faq-theme](https://github.com/aerohub/hugo-faq-theme)|22|10|faq,data files|2021-04-26T17:48:22Z|
-|[polymer](https://github.com/pdevty/polymer)|22|14|blog|2021-06-01T13:29:12Z|
-|[twentyfourteen](https://github.com/jaden/twentyfourteen)|22|13|blog,wordpress|2021-05-04T16:53:33Z|
-|[hugo-profile](https://github.com/gurusabarish/hugo-profile)|21|11|responsive,blog,portfolio,clean,fast,seo|2021-06-26T10:48:26Z|
-|[npqhugo](https://github.com/ahmedsaadxyz/npqhugo)|21|12|blog,contact form,micro blog,responsive,mobile,personal,dark|2021-06-21T19:31:33Z|
-|[hugo-rocinante](https://github.com/mavidser/hugo-rocinante)|21|18|blog,minimal,simple,clean,gallery|2021-05-13T15:30:05Z|
-|[onepress](https://github.com/ijsucceed/onepress)|21|6|responsive,disqus,widgets,blog,fontawesome,minimal|2021-04-17T15:27:50Z|
-|[hugo-theme-den](https://github.com/shaform/hugo-theme-den)|21|16|responsive,blog,clean,multilingual|2021-01-19T05:39:28Z|
-|[hugo-theme-tony](https://github.com/ThemeTony/hugo-theme-tony)|20|2|simple,elegant,transportation,porting|2021-06-11T12:01:19Z|
-|[silhouette-hugo](https://github.com/mattbutton/silhouette-hugo)|20|12|blog, responsive, personal, bootstrap, disqus, google analytics, syntax highligting, font awesome, landing page, flexbox|2021-06-15T04:12:30Z|
-|[hugo-w3-simple](https://github.com/jesselau76/hugo-w3-simple)|20|14|minimal,blog,search,clean,simple,starter,minimalist,responsive,disqus,font-awesome,syntax highlighting,multilingual,google analytics|2021-03-10T01:10:47Z|
-|[min_night](https://github.com/nathancday/min_night)|20|18|blog,night-mode|2021-03-03T16:20:59Z|
-|[potato-dark](https://github.com/surajmandalcell/potato-dark)|20|9|responsive,blog,google analytics,disqus,clean,tags,minimal,minimalist,simple,white,starter|2021-05-26T10:14:01Z|
-|[hugo-theme-dopetrope](https://github.com/curtistimson/hugo-theme-dopetrope)|20|12|blog,html5up|2021-01-07T22:51:02Z|
-|[hugo_eiio](https://github.com/leonhe/hugo_eiio)|20|3|blog,minimal,clean,simple,bootstrap,personal,mobile|2021-06-22T01:56:46Z|
-|[hugo-theme-yuki](https://github.com/iCyris/hugo-theme-yuki)|19|11|blog,responsive,highlight,clean|2021-06-20T11:41:51Z|
-|[capsule](https://github.com/sudorook/capsule)|19|10|hugo,bulma,css only,font awesome,responsive|2021-04-23T14:43:01Z|
-|[hugo-startpage-theme](https://github.com/whi-tw/hugo-startpage-theme)|19|8|speed-dial,single-page,material-design,responsive,one-page,offline|2021-05-29T11:29:00Z|
-|[persian-hugo](https://github.com/gethugothemes/persian-hugo)|18|104|landing-page,fast,light,white,modern,themefisher,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,creative,contact-form,custom-themes,mobile,minimalistic,pages,resume,portfolio,google analytics,customizable,flexbox,presentation,product,gethugothemes,typography|2021-06-20T18:45:08Z|
-|[osprey-delight](https://github.com/kdevo/osprey-delight)|18|12|portfolio,gallery,minimalist,responsive,flexbox,projects,onepage,fast|2021-06-23T17:01:11Z|
-|[simple-style](https://github.com/yanlinlin82/simple-style)|18|10|simple,blog,white|2021-04-30T12:09:18Z|
-|[stip-hugo](https://github.com/EmielH/stip-hugo)|18|15|minimal,clean,responsive,simple,personal,starter,single page,onepage,font awesome,landing page|2021-05-15T14:12:28Z|
-|[hpstr-hugo-theme](https://github.com/dldx/hpstr-hugo-theme)|18|17|responsive,blog|2021-01-07T11:20:27Z|
-|[hugo-theme-freshstart](https://github.com/rz3n/hugo-theme-freshstart)|17|8|start-page,fast,single-page,responsive,simple,clean,one-page,light|2021-03-30T23:00:07Z|
-|[hugo-theme-mixedpaper](https://github.com/wayjam/hugo-theme-mixedpaper)|17|11|blog,minimalist,paper,clean,simple,light,writing|2021-06-13T20:10:30Z|
-|[elephants](https://github.com/meibenny/elephants)|17|12|blog|2021-04-01T16:20:45Z|
-|[anybodyhome](https://github.com/lasseborly/anybodyhome)|17|6|clean,simple|2021-03-31T11:13:19Z|
-|[lekh](https://github.com/ba11b0y/lekh)|16|7|minimal,clean,blog,responsive,personal,simple,minimalist,portfolio,text-focussed,dark,dark-mode,rss|2021-05-11T16:04:39Z|
-|[Blogpaper](https://github.com/NormandErwan/Blogpaper)|16|24|theme,hugo,blog,minimalist,graphical|2021-05-18T05:37:03Z|
-|[hugo-spectre-pixel-theme](https://github.com/st-wong/hugo-spectre-pixel-theme)|16|11|modern design,timeline,blog,portfolio,resume,responsive,pixel,font awesome,spectre css framework,devicon,google analytics,rss,syntax highlighting,pagination|2021-04-26T03:26:46Z|
-|[sada](https://github.com/darshanbaral/sada)|16|12|portfolio,resume,simple,onepage,tailwindcss|2021-06-24T15:25:04Z|
-|[arabica](https://github.com/nirocfz/arabica)|16|23|blog,minimal|2021-05-28T14:20:49Z|
-|[hugo_theme_adam_eve](https://github.com/blankoworld/hugo_theme_adam_eve)|16|5|minimal,wiki-like,documentation|2021-04-09T21:22:51Z|
-|[simpleit-hugo-theme](https://github.com/marcanuy/simpleit-hugo-theme)|16|5|responsive,bootstrap,font awesome|2021-06-16T13:49:13Z|
-|[minimage](https://github.com/dsk52/minimage)|16|10|responsive,simple|2021-05-04T17:35:02Z|
-|[hugo-fresh](https://github.com/lucperkins/hugo-fresh)|16|13|responsive,one page,light,onepage,company,clean,landing page|2021-06-10T10:23:20Z|
-|[accessible-minimalism-hugo-theme](https://github.com/leonstafford/accessible-minimalism-hugo-theme)|15|6|minimalist,accessible,simple|2021-06-07T23:44:08Z|
-|[materialize-bp-hugo-theme](https://github.com/spech66/materialize-bp-hugo-theme)|15|4|minimalist,minimal,blog,clean,simple,material design,responsive,google analytics,syntax sighlighting,light,fast,dark,pages,font awesome,fontawesome,flexbox,multilingual,customizable,mobile|2021-05-15T04:06:03Z|
-|[hugo-now](https://github.com/mikeblum/hugo-now)|15|8|blog,profile,jekyll-now,bootstrap,font awesome,responsive,pygments|2021-04-11T22:03:16Z|
-|[simpleness](https://github.com/RainerChiang/simpleness)|14|7|blog,simple,clean,highlight,readable|2021-06-22T18:28:50Z|
-|[sicily-hugo-theme](https://github.com/cristianmarint/sicily-hugo-theme)|14|16|landing-page,fast,light,white,modern,cristianmarint,hugo-theme,hugo-templates,bootstrap,blog,responsive,clean,simple,creative,contact-form,custom-themes,mobile,minimalistic,pages,google analytics,customizable,flexbox,presentation,product,theme,typography|2021-03-26T14:03:46Z|
-|[SimpleIntro](https://github.com/gangjun06/SimpleIntro)|14|19|clean,simple,responsive,light,single-page|2021-06-22T01:52:38Z|
-|[hugo-business-frontpage-theme](https://github.com/cowboysmall-tools/hugo-business-frontpage-theme)|14|15|starter,business,home,page|2021-06-17T14:22:52Z|
-|[BeyondNothing](https://github.com/salcan/BeyondNothing)|14|8|blog,lander,minimalist,clean|2021-06-14T13:04:31Z|
-|[simple-resume](https://github.com/tylerjlawson/simple-resume)|13|4|cv,resume,minimalist|2021-06-26T15:41:14Z|
-|[hugo-theme-sk1](https://github.com/J-Siu/hugo-theme-sk1)|13|0|blog,clean,minimal,personal,simple|2021-04-26T05:44:27Z|
-|[colordrop](https://github.com/humrochagf/colordrop)|13|3|blog,customizable,monochromatic,mimimalist|2021-05-24T19:18:46Z|
-|[hugo-frances-theme](https://github.com/mcrwfrd/hugo-frances-theme)|13|7|grid,portfolio|2021-06-22T17:25:25Z|
-|[hugo-starter](https://github.com/jimfrenette/hugo-starter)|13|5|starter,minimal,development,website,responsive,blog|2021-05-14T17:35:35Z|
-|[hugo-theme-wave](https://github.com/syui/hugo-theme-wave)|13|7|blog|2020-12-15T11:32:33Z|
-|[kitab](https://github.com/darshanbaral/kitab)|12|8|book|2021-06-21T22:10:44Z|
-|[hugo-dusky-neon-potato](https://github.com/VVelox/hugo-dusky-neon-potato)|12|5|responsive,blog,google analytics,disqus,clean,tags,minimal,custom themes,minimalist,simple,pink,green,starter,dark,sortable tables|2020-12-30T23:42:49Z|
-|[foundation-theme](https://github.com/hdcdstr8fwd/foundation-theme)|12|10|hugo,foundation|2020-01-26T01:17:14Z|
-|[papaya](https://github.com/plopcas/papaya)|11|3|blog|2021-06-01T00:19:18Z|
-|[hugo-theme-easybook](https://github.com/Y4er/hugo-theme-easybook)|11|6|hugo,simple|2020-09-26T19:35:09Z|
-|[OneDly-Theme](https://github.com/cdeck3r/OneDly-Theme)|11|10|documentation,landing page,opensource,single page|2021-06-12T16:21:09Z|
-|[darksimplicity](https://github.com/kritoke/darksimplicity)|11|4|blog,dark,minimalist|2020-06-20T01:53:34Z|
-|[hugo-theme-sk3](https://github.com/J-Siu/hugo-theme-sk3)|10|4|blog,clean,customizable,dark,disqus,google adsense,google analytics,minimal,mobile,personal,responsive,simple|2021-06-21T17:38:51Z|
-|[kiss-em](https://github.com/pavel-pi/kiss-em)|10|6|blog,minimal,minimalist,responsive,rss|2021-05-11T16:07:13Z|
-|[hugo-theme-prav](https://github.com/pravin/hugo-theme-prav)|10|7|website,responsive,disqus,blog,two-column|2020-12-30T23:40:09Z|
-|[hugo-theme-doors](https://github.com/zzzmisa/hugo-theme-doors)|10|8|single page,onepage,one page,amp,mobile,google-analytics,projects,portfolio|2021-04-19T06:29:21Z|
-|[mero](https://github.com/darshanbaral/mero)|10|11|personal,blog,dark|2020-09-19T17:43:58Z|
-|[hugo-apps-theme](https://github.com/gonnux/hugo-apps-theme)|10|7|minimal,highlight.js,customizable,projects,portfolio,google analytics,syntax highlighting,light,google adsense|2021-04-30T01:47:26Z|
-|[hugo-theme-hamburg](https://github.com/hauke96/hugo-theme-hamburg)|10|9|blog,tags,bootstrap,multilingual,clean,minimal,disqus,font awesome,mobile|2020-12-30T23:41:51Z|
-|[hugo-bingo](https://github.com/gundamew/hugo-bingo)|10|10|minimalist,simple,clean,blog,starter,responsive|2021-06-21T09:41:41Z|
-|[hugo-fabric](https://github.com/wd/hugo-fabric)|10|5|blog,archives,tags|2021-01-14T03:28:53Z|
-|[bodhi](https://github.com/rhnvrm/bodhi)|9|2|blog,minimal,simple,personal,google-analytics,minimalist,search|2021-04-11T18:02:12Z|
-|[hugo-theme-okayish-blog](https://github.com/kongdivin/hugo-theme-okayish-blog)|9|3|blog,responsive,i18n|2021-04-07T04:18:11Z|
-|[twentynineteen-hugo](https://github.com/jeremybise/twentynineteen-hugo)|9|7|blog,clean,light,color configuration,search|2020-09-09T14:26:18Z|
-|[hugo-frais](https://github.com/the2ne/hugo-frais)|9|5|blog,minimal,responsive|2020-10-06T20:15:47Z|
-|[Shapez-Theme](https://github.com/djuelg/Shapez-Theme)|9|5|hugo,blog,shapez,svg,design|2020-08-22T13:12:12Z|
-|[omega-hugo](https://github.com/gethugothemes/omega-hugo)|8|41|landing-page,fast,light,white,modern,themefisher,hugo-theme,hugo-templates,bootstrap,gethugothemes,responsive,clean,simple,creative,custom-themes,mobile,minimalistic,pages,google analytics,customizable,flexbox,presentation,product,theme,typography|2021-05-11T16:05:06Z|
-|[hugo-clinic-notes](https://github.com/jmablog/hugo-clinic-notes)|8|3|notes,minimal,minimalistic,minimalist,modern,clean,white,docs,business,simple|2021-02-16T01:19:15Z|
-|[hugo-theme-notrack](https://github.com/gevhaz/hugo-theme-notrack)|8|8|minimal,personal,responsive,libre,flexbox|2021-02-13T19:05:15Z|
-|[hugo-html5up-alpha](https://github.com/dewittn/hugo-html5up-alpha)|8|11|blog,html5up,responsive,business|2021-05-19T11:07:55Z|
-|[hugo-theme-simple-blog](https://github.com/10mohi6/hugo-theme-simple-blog)|8|7|simple,blog,responsive,minimal,clean,light,personal,bootstrap,customizable,hugo,theme|2021-06-16T00:07:32Z|
-|[Niello](https://github.com/guangmean/Niello)|8|7|blog,syntax highlighting,highlight.js,dark|2021-06-25T00:31:52Z|
-|[hugo-myportfolio-theme](https://github.com/2-REC/hugo-myportfolio-theme)|8|10|portfolio,blog,responsive,personal,business,projects,bootstrap|2020-07-25T08:35:49Z|
+|[allegiant](https://github.com/brycematheson/allegiant)|24|14|Blog|2020-12-01T09:41:21Z|
+|[hugo-material-blog](https://github.com/Xzya/hugo-material-blog)|23|21|Blog,Multilingual,Responsive|2021-03-06T05:07:42Z|
+|[hugo-profile](https://github.com/gurusabarish/hugo-profile)|22|11|Blog,Portfolio,Responsive|2021-07-08T09:41:15Z|
+|[hugo-rocinante](https://github.com/mavidser/hugo-rocinante)|22|18|Blog,Gallery|2021-07-05T19:56:07Z|
+|[twentyfourteen](https://github.com/jaden/twentyfourteen)|22|13|Blog|2021-05-04T16:53:33Z|
+|[hugo-faq-theme](https://github.com/aerohub/hugo-faq-theme)|22|10||2021-04-26T17:48:22Z|
+|[polymer](https://github.com/pdevty/polymer)|22|14|Blog|2021-06-01T13:29:12Z|
+|[the-roots-home](https://github.com/rmsubekti/the-roots-home)|21|7|Light|2021-07-08T04:44:05Z|
+|[hugo-theme-tony](https://github.com/ThemeTony/hugo-theme-tony)|21|3||2021-06-29T10:34:27Z|
+|[hugo-theme-den](https://github.com/shaform/hugo-theme-den)|21|16|Blog,Multilingual,Responsive|2021-01-19T05:39:28Z|
+|[npqhugo](https://github.com/ahmedsaadxyz/npqhugo)|21|12|Blog,Contact,Dark,Personal,Responsive|2021-06-21T19:31:33Z|
+|[onepress](https://github.com/ijsucceed/onepress)|21|6|Blog,Responsive|2021-04-17T15:27:50Z|
+|[potato-dark](https://github.com/surajmandalcell/potato-dark)|20|9|Blog,Responsive,White|2021-06-30T13:20:18Z|
+|[hugo_eiio](https://github.com/leonhe/hugo_eiio)|20|3|Blog,Bootstrap,Personal|2021-06-28T08:28:41Z|
+|[silhouette-hugo](https://github.com/mattbutton/silhouette-hugo)|20|12|Blog|2021-06-15T04:12:30Z|
+|[min_night](https://github.com/nathancday/min_night)|20|18|Blog|2021-03-03T16:20:59Z|
+|[hugo-theme-dopetrope](https://github.com/curtistimson/hugo-theme-dopetrope)|20|12|Blog|2021-01-07T22:51:02Z|
+|[osprey-delight](https://github.com/kdevo/osprey-delight)|19|12|Gallery,Portfolio,Responsive|2021-07-02T12:44:28Z|
+|[capsule](https://github.com/sudorook/capsule)|19|10|Responsive|2021-07-05T01:48:15Z|
+|[hugo-w3-simple](https://github.com/jesselau76/hugo-w3-simple)|19|14|Blog,Multilingual,Responsive|2021-06-30T03:29:36Z|
+|[hugo-theme-yuki](https://github.com/iCyris/hugo-theme-yuki)|19|11|Blog,Responsive|2021-06-20T11:41:51Z|
+|[hugo-startpage-theme](https://github.com/whi-tw/hugo-startpage-theme)|19|8|Responsive|2021-05-29T11:29:00Z|
+|[hugo-theme-freshstart](https://github.com/rz3n/hugo-theme-freshstart)|18|8|Light,Responsive|2021-06-29T21:41:11Z|
+|[simple-style](https://github.com/yanlinlin82/simple-style)|18|10|Blog,White|2021-04-30T12:09:18Z|
+|[persian-hugo](https://github.com/gethugothemes/persian-hugo)|18|104|Blog,Bootstrap,Contact,Light,Portfolio,Responsive,White|2021-06-20T18:45:08Z|
+|[stip-hugo](https://github.com/EmielH/stip-hugo)|18|15|Personal,Responsive|2021-05-15T14:12:28Z|
+|[hpstr-hugo-theme](https://github.com/dldx/hpstr-hugo-theme)|18|17|Blog,Responsive|2021-01-07T11:20:27Z|
+|[SimpleIntro](https://github.com/gangjun06/SimpleIntro)|17|19|Light,Responsive|2021-07-01T03:29:36Z|
+|[hugo-theme-mixedpaper](https://github.com/wayjam/hugo-theme-mixedpaper)|17|11|Blog,Light|2021-06-13T20:10:30Z|
+|[elephants](https://github.com/meibenny/elephants)|17|12|Blog|2021-04-01T16:20:45Z|
+|[anybodyhome](https://github.com/lasseborly/anybodyhome)|17|6||2021-03-31T11:13:19Z|
+|[simpleit-hugo-theme](https://github.com/marcanuy/simpleit-hugo-theme)|16|5|Bootstrap,Responsive|2021-06-16T13:49:13Z|
+|[sada](https://github.com/darshanbaral/sada)|16|12|Portfolio|2021-06-24T15:25:04Z|
+|[minimage](https://github.com/dsk52/minimage)|16|10|Responsive|2021-05-04T17:35:02Z|
+|[lekh](https://github.com/ba11b0y/lekh)|16|8|Blog,Dark,Personal,Portfolio,Responsive|2021-05-11T16:04:39Z|
+|[Blogpaper](https://github.com/NormandErwan/Blogpaper)|16|23|Blog|2021-05-18T05:37:03Z|
+|[hugo_theme_adam_eve](https://github.com/blankoworld/hugo_theme_adam_eve)|16|5|Docs|2021-04-09T21:22:51Z|
+|[hugo-fresh](https://github.com/lucperkins/hugo-fresh)|16|14|Company,Light,Responsive|2021-06-10T10:23:20Z|
+|[arabica](https://github.com/nirocfz/arabica)|16|23|Blog|2021-05-28T14:20:49Z|
+|[hugo-spectre-pixel-theme](https://github.com/st-wong/hugo-spectre-pixel-theme)|16|12|Blog,Portfolio,Responsive|2021-04-26T03:26:46Z|
+|[accessible-minimalism-hugo-theme](https://github.com/leonstafford/accessible-minimalism-hugo-theme)|15|6||2021-07-04T15:34:00Z|
+|[hugo-now](https://github.com/mikeblum/hugo-now)|15|8|Blog,Bootstrap,Responsive|2021-04-11T22:03:16Z|
+|[materialize-bp-hugo-theme](https://github.com/spech66/materialize-bp-hugo-theme)|15|4|Blog,Dark,Light,Multilingual,Responsive|2021-05-15T04:06:03Z|
+|[simpleness](https://github.com/RainerChiang/simpleness)|14|7|Blog|2021-06-27T03:43:20Z|
+|[sicily-hugo-theme](https://github.com/cristianmarint/sicily-hugo-theme)|14|16|Blog,Bootstrap,Contact,Light,Responsive,White|2021-03-26T14:03:46Z|
+|[hugo-business-frontpage-theme](https://github.com/cowboysmall-tools/hugo-business-frontpage-theme)|14|15||2021-06-17T14:22:52Z|
+|[BeyondNothing](https://github.com/salcan/BeyondNothing)|14|8|Blog|2021-06-14T13:04:31Z|
+|[simple-resume](https://github.com/tylerjlawson/simple-resume)|13|5||2021-07-09T03:08:42Z|
+|[hugo-theme-sk1](https://github.com/J-Siu/hugo-theme-sk1)|13|0|Blog,Personal|2021-04-26T05:44:27Z|
+|[hugo-starter](https://github.com/jimfrenette/hugo-starter)|13|5|Blog,Responsive|2021-05-14T17:35:35Z|
+|[hugo-frances-theme](https://github.com/mcrwfrd/hugo-frances-theme)|13|7|Portfolio|2021-06-22T17:25:25Z|
+|[hugo-theme-wave](https://github.com/syui/hugo-theme-wave)|13|7|Blog|2020-12-15T11:32:33Z|
+|[colordrop](https://github.com/humrochagf/colordrop)|12|3|Blog|2021-06-27T15:30:00Z|
+|[kitab](https://github.com/darshanbaral/kitab)|12|8|Book|2021-06-21T22:10:44Z|
+|[hugo-dusky-neon-potato](https://github.com/VVelox/hugo-dusky-neon-potato)|12|5|Blog,Dark,Green,Pink,Responsive|2020-12-30T23:42:49Z|
+|[foundation-theme](https://github.com/hdcdstr8fwd/foundation-theme)|12|10||2020-01-26T01:17:14Z|
+|[hugo-bingo](https://github.com/gundamew/hugo-bingo)|11|10|Blog,Responsive|2021-07-03T05:25:12Z|
+|[papaya](https://github.com/plopcas/papaya)|11|3|Blog|2021-06-01T00:19:18Z|
+|[OneDly-Theme](https://github.com/cdeck3r/OneDly-Theme)|11|10|Docs|2021-06-12T16:21:09Z|
+|[hugo-theme-easybook](https://github.com/Y4er/hugo-theme-easybook)|11|6||2020-09-26T19:35:09Z|
+|[darksimplicity](https://github.com/kritoke/darksimplicity)|11|4|Blog,Dark|2020-06-20T01:53:34Z|
+|[kiss-em](https://github.com/pavel-pi/kiss-em)|11|5|Blog,Responsive|2021-06-30T02:38:51Z|
+|[hugo-theme-doors](https://github.com/zzzmisa/hugo-theme-doors)|10|8|Portfolio|2021-04-19T06:29:21Z|
+|[hugo-theme-sk3](https://github.com/J-Siu/hugo-theme-sk3)|10|4|Blog,Dark,Personal,Responsive|2021-06-21T17:38:51Z|
+|[hugo-theme-prav](https://github.com/pravin/hugo-theme-prav)|10|7|Blog,Responsive|2020-12-30T23:40:09Z|
+|[hugo-theme-hamburg](https://github.com/hauke96/hugo-theme-hamburg)|10|9|Blog,Bootstrap,Multilingual|2020-12-30T23:41:51Z|
+|[hugo-apps-theme](https://github.com/gonnux/hugo-apps-theme)|10|7|Light,Portfolio|2021-04-30T01:47:26Z|
+|[hugo-fabric](https://github.com/wd/hugo-fabric)|10|5|Archives,Blog|2021-01-14T03:28:53Z|
+|[mero](https://github.com/darshanbaral/mero)|10|11|Blog,Dark,Personal|2020-09-19T17:43:58Z|
+|[hugo-theme-okayish-blog](https://github.com/kongdivin/hugo-theme-okayish-blog)|9|3|Blog,Responsive|2021-04-07T04:18:11Z|
+|[Shapez-Theme](https://github.com/djuelg/Shapez-Theme)|9|5|Blog|2020-08-22T13:12:12Z|
+|[bodhi](https://github.com/rhnvrm/bodhi)|9|2|Blog,Personal|2021-04-11T18:02:12Z|
+|[hugo-frais](https://github.com/the2ne/hugo-frais)|9|5|Blog,Responsive|2020-10-06T20:15:47Z|
+|[twentynineteen-hugo](https://github.com/jeremybise/twentynineteen-hugo)|9|7|Blog,Light|2020-09-09T14:26:18Z|
+|[omega-hugo](https://github.com/gethugothemes/omega-hugo)|8|41|Bootstrap,Light,Responsive,White|2021-05-11T16:05:06Z|
+|[hugo-clinic-notes](https://github.com/jmablog/hugo-clinic-notes)|8|4|Docs,White|2021-02-16T01:19:15Z|
 |[hugo-theme-techlog-simple](https://github.com/mazgi/hugo-theme-techlog-simple)|8|5||2021-05-23T22:11:14Z|
-|[hugo-grapes](https://github.com/shankar/hugo-grapes)|8|9|minimalist,simple,clean,blog,responsive|2021-05-06T02:12:20Z|
-|[light-hugo](https://github.com/tblyler/light-hugo)|8|8|responsive,nojs,minimal,normalize,light,white|2021-04-22T19:30:18Z|
-|[basicwebtheme](https://github.com/mdashx/basicwebtheme)|7|2|minimal,responsive,white,simple,clean,light,blog,readable|2021-05-31T21:22:22Z|
-|[hugo-tikva](https://github.com/geschke/hugo-tikva)|7|8|theme,core,modern,responsive,bootstrap,minimal,blog,font awesome,white,dark,light|2021-01-11T02:52:00Z|
-|[HugoTheme-VibrantShadows](https://github.com/Softorage/HugoTheme-VibrantShadows)|6|3|blog,website,professional,responsive,google analytics,bootstrap,customizable,disqus,font awesome,seo,clean|2021-05-29T11:24:40Z|
-|[health-science-journal](https://github.com/epistemehealth/health-science-journal)|6|3|journal,health sciences|2021-05-19T13:01:12Z|
-|[docter](https://github.com/edavidaja/docter)|6|3|documentation,blog|2021-05-04T09:23:16Z|
-|[flex-bp-hugo-cv](https://github.com/spech66/flex-bp-hugo-cv)|5|4|minimalist,minimal,cv,flexbox,printable,resume,clean,simple,responsive,google analytics,light,fast,dark,pages,font awesome,fontawesome,multilingual,customizable,mobile|2021-06-12T18:05:41Z|
-|[hugo-dpsg](https://github.com/pfadfinder-konstanz/hugo-dpsg)|5|5|blog,responsive,customizable,widgets,rss|2021-06-19T10:23:51Z|
-|[hugo-assembly](https://github.com/salsysd/hugo-assembly)|5|17|modern,company,simple,clean|2021-05-01T21:14:12Z|
-|[classless-hugo](https://github.com/fiatjaf/classless-hugo)|5|0|blog,personal|2019-07-08T18:21:55Z|
-|[less](https://github.com/4ever9/less)|4|1|blog|2021-06-24T23:08:02Z|
-|[hugo-theme-sk2](https://github.com/J-Siu/hugo-theme-sk2)|4|4|blog,clean,minimal,personal,simple|2021-04-25T05:28:05Z|
-|[hugo.386](https://github.com/maxlefou/hugo.386)|4|4|blog,retro,geek,bootstra.386,hugo.386|2021-06-08T18:19:30Z|
-|[flexible-seo-hugo](https://github.com/pjbakker/flexible-seo-hugo)|4|0|bootstrap,customizable,responsive|2021-06-19T14:21:07Z|
-|[hugo-theme-robotico](https://github.com/wileybaba/hugo-theme-robotico)|4|0|fast,responsive,bootstrap,personal|2020-04-26T00:27:31Z|
-|[hugo-h5bp-simple](https://github.com/garvincasimir/hugo-h5bp-simple)|4|0|html5,responsive,simple,articles|2019-08-17T23:16:14Z|
-|[hugo-theme-hulga](https://github.com/wlh320/hugo-theme-hulga)|3|2|bulma,blog,fast,simple,dark|2021-05-29T11:20:16Z|
-|[ghazal](https://github.com/darshanbaral/ghazal)|3|4|blog,personal|2021-03-03T02:05:57Z|
-|[ticky_tacky_dark](https://github.com/kc0bfv/ticky_tacky_dark)|3|6|responsive,bootstrap,personal,blog,mobile,dark,creative,images,multipage,accessible|2021-06-25T03:05:32Z|
-|[ronu-hugo-theme](https://github.com/softwareyoga/ronu-hugo-theme)|2|2|blog,responsive,minimal,clean,simple,google-analytics,minimalist,syntax-highlighting,minimalistic|2021-02-19T23:42:37Z|
-|[khata](https://github.com/darshanbaral/khata)|2|1|documentation,simple|2021-03-03T02:06:01Z|
-|[hugo-theme-sky](https://github.com/cfrome77/hugo-theme-sky)|2|3|simple,minimal,blog,disqus|2020-12-30T23:42:58Z|
-|[redgood](https://github.com/urjaacharya/redgood)|1|1|personal,blog,clean,responsive,minimal,red|2021-05-23T15:54:08Z|
-|[someparts-hugo](https://github.com/tastaturtier/someparts-hugo)|1|0|responsive,bootstrap,fontawesome,minimalist,simple,google analytics,projects,product|2020-10-26T06:12:51Z|
-|[hugo-minimalist-spa](https://github.com/sergioabreu-g/hugo-minimalist-spa)|1|1|minimalist,spa,singlepage,business,professional,simple|2019-09-30T16:34:35Z|
-|[hugo-theme-color-your-world](https://github.com/rmaguiar/hugo-theme-color-your-world)|0|1|accessible,blog,contact form,dark,fast,highlighting,light,minimalist,modern,multilingual,personal,responsive,search,technical|2021-06-10T02:00:58Z|
-|[hugo-theme-cole](https://github.com/sfengyuan/hugo-theme-cole)|0|0|minimal,light,simple|2021-03-17T08:30:29Z|
+|[light-hugo](https://github.com/tblyler/light-hugo)|8|8|Light,Responsive,White|2021-04-22T19:30:18Z|
+|[hugo-myportfolio-theme](https://github.com/2-REC/hugo-myportfolio-theme)|8|10|Blog,Bootstrap,Personal,Portfolio,Responsive|2020-07-25T08:35:49Z|
+|[hugo-theme-notrack](https://github.com/gevhaz/hugo-theme-notrack)|8|7|Personal,Responsive|2021-02-13T19:05:15Z|
+|[hugo-theme-simple-blog](https://github.com/10mohi6/hugo-theme-simple-blog)|8|7|Blog,Bootstrap,Light,Personal,Responsive|2021-06-16T00:07:32Z|
+|[hugo-html5up-alpha](https://github.com/dewittn/hugo-html5up-alpha)|8|11|Blog,Responsive|2021-05-19T11:07:55Z|
+|[Niello](https://github.com/guangmean/Niello)|8|7|Blog,Dark|2021-06-25T00:31:52Z|
+|[hugo-grapes](https://github.com/shankar/hugo-grapes)|8|9|Blog,Responsive|2021-05-06T02:12:20Z|
+|[hugo-tikva](https://github.com/geschke/hugo-tikva)|7|8|Blog,Bootstrap,Dark,Light,Responsive,White|2021-01-11T02:52:00Z|
+|[basicwebtheme](https://github.com/mdashx/basicwebtheme)|7|2|Blog,Light,Responsive,White|2021-05-31T21:22:22Z|
+|[health-science-journal](https://github.com/epistemehealth/health-science-journal)|6|3||2021-05-19T13:01:12Z|
+|[docter](https://github.com/edavidaja/docter)|6|3|Blog,Docs|2021-05-04T09:23:16Z|
+|[showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme)|5|2|Portfolio,Responsive|2021-07-04T14:34:31Z|
+|[hugo-dpsg](https://github.com/pfadfinder-konstanz/hugo-dpsg)|5|6|Blog,Responsive|2021-06-19T10:23:51Z|
+|[flex-bp-hugo-cv](https://github.com/spech66/flex-bp-hugo-cv)|5|4|Dark,Light,Multilingual,Responsive|2021-06-12T18:05:41Z|
+|[classless-hugo](https://github.com/fiatjaf/classless-hugo)|5|0|Blog,Personal|2019-07-08T18:21:55Z|
+|[hugo-assembly](https://github.com/salsysd/hugo-assembly)|5|17|Company|2021-05-01T21:14:12Z|
+|[flexible-seo-hugo](https://github.com/pjbakker/flexible-seo-hugo)|4|0|Bootstrap,Responsive|2021-06-19T14:21:07Z|
+|[hugo-theme-sk2](https://github.com/J-Siu/hugo-theme-sk2)|4|4|Blog,Personal|2021-04-25T05:28:05Z|
+|[less](https://github.com/4ever9/less)|4|0|Blog|2021-06-24T23:08:02Z|
+|[hugo-theme-hulga](https://github.com/wlh320/hugo-theme-hulga)|4|3|Blog,Dark|2021-07-03T18:14:19Z|
+|[hugo-h5bp-simple](https://github.com/garvincasimir/hugo-h5bp-simple)|4|0|Responsive|2019-08-17T23:16:14Z|
+|[hugo-theme-robotico](https://github.com/wileybaba/hugo-theme-robotico)|4|0|Bootstrap,Personal,Responsive|2020-04-26T00:27:31Z|
+|[ticky_tacky_dark](https://github.com/kc0bfv/ticky_tacky_dark)|3|6|Blog,Bootstrap,Dark,Personal,Responsive|2021-06-25T03:05:32Z|
+|[ghazal](https://github.com/darshanbaral/ghazal)|3|4|Blog,Personal|2021-03-03T02:05:57Z|
+|[ronu-hugo-theme](https://github.com/softwareyoga/ronu-hugo-theme)|2|2|Blog,Responsive|2021-02-19T23:42:37Z|
+|[khata](https://github.com/darshanbaral/khata)|2|1|Docs|2021-03-03T02:06:01Z|
+|[hugo-theme-sky](https://github.com/cfrome77/hugo-theme-sky)|2|3|Blog|2020-12-30T23:42:58Z|
+|[hugo-minimalist-spa](https://github.com/sergioabreu-g/hugo-minimalist-spa)|2|1||2021-07-01T03:33:48Z|
+|[redgood](https://github.com/urjaacharya/redgood)|1|1|Blog,Personal,Responsive|2021-05-23T15:54:08Z|
+|[someparts-hugo](https://github.com/tastaturtier/someparts-hugo)|1|0|Bootstrap,Responsive|2020-10-26T06:12:51Z|
+|[hugo-theme-color-your-world](https://github.com/rmaguiar/hugo-theme-color-your-world)|0|1|Blog,Contact,Dark,Light,Multilingual,Personal,Responsive|2021-06-10T02:00:58Z|
+|[port-hugo](https://github.com/tylerjlawson/port-hugo)|0|0|Bootstrap,Personal,Portfolio|2021-07-08T23:35:37Z|
+|[hugo-theme-cole](https://github.com/sfengyuan/hugo-theme-cole)|0|0|Light|2021-03-17T08:30:29Z|
+|[simple-snipcart-shop](https://github.com/tylerjlawson/simple-snipcart-shop)|0|0|Ecommerce,White|2021-07-09T23:31:34Z|
+|[hugo-owaraiclub](https://github.com/tcgriffith/hugo-owaraiclub)|0|0|Blog|2019-11-05T07:10:17Z|
