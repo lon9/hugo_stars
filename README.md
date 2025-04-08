@@ -3,7 +3,7 @@ Updated at 2022-09-18 00:11:13.879825453 UTC
 
 |Name|Stars|Forks|Tags|UpdatedAt|
 ----|----|----|----|----
-|[wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes)|6686|2630|Blog,Company,Dark,Landing,Minimal,Multilingual,Portfolio,Responsive|2022-09-17T15:06:55Z|
+|[hugo-Blox-builder](https://github.com/HugoBlox/hugo-blox-builder) (fomerly known as wowchemy)|6686|2630|Blog,Company,Dark,Landing,Minimal,Multilingual,Portfolio,Responsive|2022-09-17T15:06:55Z|
 |[hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)|4432|1359|Blog,Dark,Light,Minimal,Responsive|2022-09-17T22:42:23Z|
 |[hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)|2559|572|Blog,Dark,Light,Personal,Responsive|2022-09-17T15:33:43Z|
 |[starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)|2302|5535|Blog,Company,Contact,Dark,Docs,Gallery,Landing,Light,Minimal,Multilingual,Personal,Portfolio,Responsive|2022-09-17T13:56:47Z|
